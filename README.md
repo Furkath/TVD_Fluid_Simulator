@@ -20,5 +20,12 @@ A self-built c++ fluid simulator with adaption of all kinds of Total Variation D
 <!-- Provide instructions on how to install and set up your project. Include any dependencies and steps needed for a successful installation. -->
 
 ```bash
-# Example command for installation
-npm install
+# You can utilize wmake to compile all c++ files 
+cd solver
+wmake
+
+## Usage
+
+```bash
+cd run
+source source_to_run

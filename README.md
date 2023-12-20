@@ -7,9 +7,9 @@ A self-built c++ fluid simulator with adaption of all kinds of Total Variation D
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+<!-- [Contributing](#contributing) -->
+<!-- [License](#license) -->
+<!-- [Acknowledgements](#acknowledgements) -->
 
 ## Features
 
@@ -23,9 +23,15 @@ A self-built c++ fluid simulator with adaption of all kinds of Total Variation D
 # You can utilize wmake to compile all c++ files 
 cd solver
 wmake
+```
 
 ## Usage
 
+<!-- Explain how to use your project. Include examples or code snippets if applicable. -->
+  
 ```bash
 cd run
 source source_to_run
+cd ../postplot
+python newplot.py
+```

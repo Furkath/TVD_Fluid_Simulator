@@ -37,4 +37,4 @@ cd ../postplot
 python newplot.py
 ```
 ## Demo
-![GitHub Logo](https://github.com/Furkath/TVD_Fluid_Simulator/tree/master/results/320_Re1000_UMIST/pic_mag.png)
+![Vmag_demo](https://github.com/Furkath/TVD_Fluid_Simulator/blob/master/results/320_Re1000_UMIST/pic_mag.png)

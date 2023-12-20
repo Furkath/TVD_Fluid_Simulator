@@ -7,6 +7,7 @@ A self-built c++ fluid simulator with adaption of all kinds of Total Variation D
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 <!-- [Contributing](#contributing) -->
 <!-- [License](#license) -->
 <!-- [Acknowledgements](#acknowledgements) -->
@@ -35,3 +36,5 @@ source source_to_run
 cd ../postplot
 python newplot.py
 ```
+## Demo
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)

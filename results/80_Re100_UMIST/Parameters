@@ -1,0 +1,71 @@
+Maximum iteration number allowed:
+
+50000    
+
+
+Possible initial residual not exceed:        
+
+1e10    
+
+
+Final residual tolerance (SIMPLE converge criterion): 
+
+1e-05             
+
+
+Relaxation for P:
+
+0.095 
+
+
+Relaxation for iterative solution:  
+
+0.9 
+
+
+Relaxation for U: 
+
+0.3  
+
+
+Relaxation for V:
+
+0.3    
+
+
+Density:
+
+1.0
+
+
+Lid velocity:
+
+1.0
+
+
+cavity side length:
+
+1.0
+
+
+Reynolds number:
+
+100
+
+
+Grid size X:
+
+80
+
+
+Grid size Y:
+
+80
+
+
+TVD activated (1 or -1):
+
+1
+
+
+END

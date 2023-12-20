@@ -1,0 +1,9764 @@
+start !------------
+
+
+Time now is: 0.0102564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  470 ;   residual:  9.99553e-06
+
+
+Time now is: 0.0205128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  182 ;   residual:  9.99846e-06
+
+
+Time now is: 0.0307692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  125 ;   residual:  9.99243e-06
+
+
+Time now is: 0.0410256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  204 ;   residual:  9.99862e-06
+
+
+Time now is: 0.0512821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  77 ;   residual:  9.96859e-06
+
+
+Time now is: 0.0615385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  84 ;   residual:  9.97271e-06
+
+
+Time now is: 0.0717949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  75 ;   residual:  9.85703e-06
+
+
+Time now is: 0.0820513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  68 ;   residual:  9.85104e-06
+
+
+Time now is: 0.0923077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  62 ;   residual:  9.9484e-06
+
+
+Time now is: 0.102564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  58 ;   residual:  9.89342e-06
+
+
+Time now is: 0.112821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  53 ;   residual:  9.96511e-06
+
+
+Time now is: 0.123077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  50 ;   residual:  9.89725e-06
+
+
+Time now is: 0.133333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  45 ;   residual:  9.96857e-06
+
+
+Time now is: 0.14359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  42 ;   residual:  9.91525e-06
+
+
+Time now is: 0.153846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  38 ;   residual:  9.9687e-06
+
+
+Time now is: 0.164103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  46 ;   residual:  9.98776e-06
+
+
+Time now is: 0.174359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  73 ;   residual:  9.99751e-06
+
+
+Time now is: 0.184615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  17 ;   residual:  9.98477e-06
+
+
+Time now is: 0.194872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  32 ;   residual:  9.99805e-06
+
+
+Time now is: 0.205128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  34 ;   residual:  9.97317e-06
+
+
+Time now is: 0.215385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  28 ;   residual:  9.96112e-06
+
+
+Time now is: 0.225641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  25 ;   residual:  9.97283e-06
+
+
+Time now is: 0.235897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  23 ;   residual:  9.97434e-06
+
+
+Time now is: 0.246154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  21 ;   residual:  9.95329e-06
+
+
+Time now is: 0.25641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  22 ;   residual:  9.97235e-06
+
+
+Time now is: 0.266667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  22 ;   residual:  9.97978e-06
+
+
+Time now is: 0.276923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  20 ;   residual:  9.99484e-06
+
+
+Time now is: 0.287179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  20 ;   residual:  9.86364e-06
+
+
+Time now is: 0.297436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  42 ;   residual:  9.99948e-06
+
+
+Time now is: 0.307692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  54 ;   residual:  9.99859e-06
+
+
+Time now is: 0.317949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  11 ;   residual:  9.95549e-06
+
+
+Time now is: 0.328205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.89531e-06
+
+
+Time now is: 0.338462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.72218e-06
+
+
+Time now is: 0.348718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  11 ;   residual:  9.97322e-06
+
+
+Time now is: 0.358974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  21 ;   residual:  9.90932e-06
+
+
+Time now is: 0.369231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  22 ;   residual:  9.91117e-06
+
+
+Time now is: 0.379487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  11 ;   residual:  9.92568e-06
+
+
+Time now is: 0.389744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  31 ;   residual:  9.96491e-06
+
+
+Time now is: 0.4  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.7342e-06
+
+
+Time now is: 0.410256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  21 ;   residual:  9.95349e-06
+
+
+Time now is: 0.420513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  11 ;   residual:  9.39791e-06
+
+
+Time now is: 0.430769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  23 ;   residual:  9.94949e-06
+
+
+Time now is: 0.441026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.88857e-06
+
+
+Time now is: 0.451282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  22 ;   residual:  9.90051e-06
+
+
+Time now is: 0.461538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.89586e-06
+
+
+Time now is: 0.471795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  11 ;   residual:  9.99249e-06
+
+
+Time now is: 0.482051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  24 ;   residual:  9.9805e-06
+
+
+Time now is: 0.492308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.38262e-06
+
+
+Time now is: 0.502564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  11 ;   residual:  9.36202e-06
+
+
+Time now is: 0.512821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  11 ;   residual:  9.76907e-06
+
+
+Time now is: 0.523077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  22 ;   residual:  9.93734e-06
+
+
+Time now is: 0.533333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.31966e-06
+
+
+Time now is: 0.54359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.90631e-06
+
+
+Time now is: 0.553846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  11 ;   residual:  9.58175e-06
+
+
+Time now is: 0.564103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  11 ;   residual:  9.53962e-06
+
+
+Time now is: 0.574359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  11 ;   residual:  9.57109e-06
+
+
+Time now is: 0.584615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.95942e-06
+
+
+Time now is: 0.594872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  11 ;   residual:  9.72671e-06
+
+
+Time now is: 0.605128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.71206e-06
+
+
+Time now is: 0.615385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.72172e-06
+
+
+Time now is: 0.625641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.71019e-06
+
+
+Time now is: 0.635897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  9 ;   residual:  9.99825e-06
+
+
+Time now is: 0.646154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  9 ;   residual:  9.97537e-06
+
+
+Time now is: 0.65641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.97463e-06
+
+
+Time now is: 0.666667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.94678e-06
+
+
+Time now is: 0.676923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  10 ;   residual:  9.86072e-06
+
+
+Time now is: 0.687179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  9 ;   residual:  9.9087e-06
+
+
+Time now is: 0.697436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  9 ;   residual:  9.75251e-06
+
+
+Time now is: 0.707692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  9 ;   residual:  9.54756e-06
+
+
+Time now is: 0.717949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.94624e-06
+
+
+Time now is: 0.728205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.70898e-06
+
+
+Time now is: 0.738462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.42954e-06
+
+
+Time now is: 0.748718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.20306e-06
+
+
+Time now is: 0.758974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.07727e-06
+
+
+Time now is: 0.769231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.99891e-06
+
+
+Time now is: 0.779487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.90816e-06
+
+
+Time now is: 0.789744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.60576e-06
+
+
+Time now is: 0.8  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.33496e-06
+
+
+Time now is: 0.810256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.32262e-06
+
+
+Time now is: 0.820513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.33963e-06
+
+
+Time now is: 0.830769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.32094e-06
+
+
+Time now is: 0.841026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.29621e-06
+
+
+Time now is: 0.851282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.27506e-06
+
+
+Time now is: 0.861538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.27186e-06
+
+
+Time now is: 0.871795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.28778e-06
+
+
+Time now is: 0.882051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.2994e-06
+
+
+Time now is: 0.892308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.30214e-06
+
+
+Time now is: 0.902564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.30388e-06
+
+
+Time now is: 0.912821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.30859e-06
+
+
+Time now is: 0.923077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.31496e-06
+
+
+Time now is: 0.933333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.32007e-06
+
+
+Time now is: 0.94359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.32162e-06
+
+
+Time now is: 0.953846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.31713e-06
+
+
+Time now is: 0.964103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.35463e-06
+
+
+Time now is: 0.974359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.40467e-06
+
+
+Time now is: 0.984615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.42586e-06
+
+
+Time now is: 0.994872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.43156e-06
+
+
+Time now is: 1.00513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.42894e-06
+
+
+Time now is: 1.01538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.41915e-06
+
+
+Time now is: 1.02564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.43152e-06
+
+
+Time now is: 1.0359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.44374e-06
+
+
+Time now is: 1.04615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.41536e-06
+
+
+Time now is: 1.05641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.36789e-06
+
+
+Time now is: 1.06667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.31304e-06
+
+
+Time now is: 1.07692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.23415e-06
+
+
+Time now is: 1.08718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.12759e-06
+
+
+Time now is: 1.09744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.03122e-06
+
+
+Time now is: 1.10769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  7.93137e-06
+
+
+Time now is: 1.11795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  7.81012e-06
+
+
+Time now is: 1.12821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  7.68905e-06
+
+
+Time now is: 1.13846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  7.73085e-06
+
+
+Time now is: 1.14872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  7.95867e-06
+
+
+Time now is: 1.15897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.17673e-06
+
+
+Time now is: 1.16923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.38355e-06
+
+
+Time now is: 1.17949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.57775e-06
+
+
+Time now is: 1.18974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.75809e-06
+
+
+Time now is: 1.2  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.92346e-06
+
+
+Time now is: 1.21026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.07465e-06
+
+
+Time now is: 1.22051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.21413e-06
+
+
+Time now is: 1.23077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.3346e-06
+
+
+Time now is: 1.24103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.43504e-06
+
+
+Time now is: 1.25128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.5147e-06
+
+
+Time now is: 1.26154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.57294e-06
+
+
+Time now is: 1.27179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.60911e-06
+
+
+Time now is: 1.28205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.62244e-06
+
+
+Time now is: 1.29231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.6128e-06
+
+
+Time now is: 1.30256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.57991e-06
+
+
+Time now is: 1.31282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.52336e-06
+
+
+Time now is: 1.32308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.4429e-06
+
+
+Time now is: 1.33333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.33847e-06
+
+
+Time now is: 1.34359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.21021e-06
+
+
+Time now is: 1.35385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  9.05763e-06
+
+
+Time now is: 1.3641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.8818e-06
+
+
+Time now is: 1.37436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.6838e-06
+
+
+Time now is: 1.38462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.46792e-06
+
+
+Time now is: 1.39487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  8.23399e-06
+
+
+Time now is: 1.40513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  7.98008e-06
+
+
+Time now is: 1.41538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  7.70696e-06
+
+
+Time now is: 1.42564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  7.4156e-06
+
+
+Time now is: 1.4359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  7.10704e-06
+
+
+Time now is: 1.44615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  6.78237e-06
+
+
+Time now is: 1.45641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  6.4427e-06
+
+
+Time now is: 1.46667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  6.08919e-06
+
+
+Time now is: 1.47692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  8 ;   residual:  5.7308e-06
+
+
+Time now is: 1.48718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  9.92558e-06
+
+
+Time now is: 1.49744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  9.52188e-06
+
+
+Time now is: 1.50769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  9.10935e-06
+
+
+Time now is: 1.51795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  8.68915e-06
+
+
+Time now is: 1.52821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  8.26177e-06
+
+
+Time now is: 1.53846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.82744e-06
+
+
+Time now is: 1.54872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.38638e-06
+
+
+Time now is: 1.55897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.93901e-06
+
+
+Time now is: 1.56923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.75678e-06
+
+
+Time now is: 1.57949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.75611e-06
+
+
+Time now is: 1.58974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.75723e-06
+
+
+Time now is: 1.6  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.76243e-06
+
+
+Time now is: 1.61026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.79179e-06
+
+
+Time now is: 1.62051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.79374e-06
+
+
+Time now is: 1.63077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.65191e-06
+
+
+Time now is: 1.64103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.74802e-06
+
+
+Time now is: 1.65128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.83974e-06
+
+
+Time now is: 1.66154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.88458e-06
+
+
+Time now is: 1.67179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.91191e-06
+
+
+Time now is: 1.68205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.90948e-06
+
+
+Time now is: 1.69231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.92708e-06
+
+
+Time now is: 1.70256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.05422e-06
+
+
+Time now is: 1.71282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.16825e-06
+
+
+Time now is: 1.72308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.26777e-06
+
+
+Time now is: 1.73333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.35134e-06
+
+
+Time now is: 1.74359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.42137e-06
+
+
+Time now is: 1.75385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.47661e-06
+
+
+Time now is: 1.7641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.51521e-06
+
+
+Time now is: 1.77436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.53988e-06
+
+
+Time now is: 1.78462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.54775e-06
+
+
+Time now is: 1.79487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.5389e-06
+
+
+Time now is: 1.80513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.51338e-06
+
+
+Time now is: 1.81538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.47199e-06
+
+
+Time now is: 1.82564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.41558e-06
+
+
+Time now is: 1.8359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.34482e-06
+
+
+Time now is: 1.84615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.26047e-06
+
+
+Time now is: 1.85641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.16235e-06
+
+
+Time now is: 1.86667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.05142e-06
+
+
+Time now is: 1.87692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.92853e-06
+
+
+Time now is: 1.88718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.79357e-06
+
+
+Time now is: 1.89744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.64772e-06
+
+
+Time now is: 1.90769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.49189e-06
+
+
+Time now is: 1.91795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.32444e-06
+
+
+Time now is: 1.92821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.14763e-06
+
+
+Time now is: 1.93846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.0211e-06
+
+
+Time now is: 1.94872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.938e-06
+
+
+Time now is: 1.95897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.85586e-06
+
+
+Time now is: 1.96923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.76759e-06
+
+
+Time now is: 1.97949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.67174e-06
+
+
+Time now is: 1.98974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.56983e-06
+
+
+Time now is: 2  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.46533e-06
+
+
+Time now is: 2.01026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.35911e-06
+
+
+Time now is: 2.02051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.25031e-06
+
+
+Time now is: 2.03077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.1386e-06
+
+
+Time now is: 2.04103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  9.93606e-06
+
+
+Time now is: 2.05128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  9.75409e-06
+
+
+Time now is: 2.06154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  9.55901e-06
+
+
+Time now is: 2.07179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  9.35876e-06
+
+
+Time now is: 2.08205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  9.10045e-06
+
+
+Time now is: 2.09231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.85607e-06
+
+
+Time now is: 2.10256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.63792e-06
+
+
+Time now is: 2.11282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.43975e-06
+
+
+Time now is: 2.12308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.26198e-06
+
+
+Time now is: 2.13333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.10346e-06
+
+
+Time now is: 2.14359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.0466e-06
+
+
+Time now is: 2.15385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.98196e-06
+
+
+Time now is: 2.1641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.87696e-06
+
+
+Time now is: 2.17436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.74222e-06
+
+
+Time now is: 2.18462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.59552e-06
+
+
+Time now is: 2.19487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.45074e-06
+
+
+Time now is: 2.20513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.76917e-06
+
+
+Time now is: 2.21538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.07701e-06
+
+
+Time now is: 2.22564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.37462e-06
+
+
+Time now is: 2.2359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.68864e-06
+
+
+Time now is: 2.24615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.98895e-06
+
+
+Time now is: 2.25641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  9.31294e-06
+
+
+Time now is: 2.26667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  9.63739e-06
+
+
+Time now is: 2.27692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  9.94195e-06
+
+
+Time now is: 2.28718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.46534e-06
+
+
+Time now is: 2.29744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.59093e-06
+
+
+Time now is: 2.30769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.69033e-06
+
+
+Time now is: 2.31795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.76419e-06
+
+
+Time now is: 2.32821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.81339e-06
+
+
+Time now is: 2.33846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.83877e-06
+
+
+Time now is: 2.34872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.84116e-06
+
+
+Time now is: 2.35897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.82138e-06
+
+
+Time now is: 2.36923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.78022e-06
+
+
+Time now is: 2.37949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.71853e-06
+
+
+Time now is: 2.38974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.63721e-06
+
+
+Time now is: 2.4  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.54219e-06
+
+
+Time now is: 2.41026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.43585e-06
+
+
+Time now is: 2.42051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.32487e-06
+
+
+Time now is: 2.43077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.19908e-06
+
+
+Time now is: 2.44103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  7.05905e-06
+
+
+Time now is: 2.45128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.90535e-06
+
+
+Time now is: 2.46154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.73848e-06
+
+
+Time now is: 2.47179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.55886e-06
+
+
+Time now is: 2.48205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.36691e-06
+
+
+Time now is: 2.49231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  6.16946e-06
+
+
+Time now is: 2.50256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.96376e-06
+
+
+Time now is: 2.51282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.747e-06
+
+
+Time now is: 2.52308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.51999e-06
+
+
+Time now is: 2.53333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.28349e-06
+
+
+Time now is: 2.54359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  7 ;   residual:  5.0383e-06
+
+
+Time now is: 2.55385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  9.80863e-06
+
+
+Time now is: 2.5641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  9.51997e-06
+
+
+Time now is: 2.57436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  9.21907e-06
+
+
+Time now is: 2.58462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.90662e-06
+
+
+Time now is: 2.59487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.58401e-06
+
+
+Time now is: 2.60513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  8.25247e-06
+
+
+Time now is: 2.61538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.91301e-06
+
+
+Time now is: 2.62564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.56651e-06
+
+
+Time now is: 2.6359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.21376e-06
+
+
+Time now is: 2.64615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.85554e-06
+
+
+Time now is: 2.65641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.8385e-06
+
+
+Time now is: 2.66667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.90109e-06
+
+
+Time now is: 2.67692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.95683e-06
+
+
+Time now is: 2.68718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.00454e-06
+
+
+Time now is: 2.69744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.04061e-06
+
+
+Time now is: 2.70769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.07749e-06
+
+
+Time now is: 2.71795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.10839e-06
+
+
+Time now is: 2.72821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.12956e-06
+
+
+Time now is: 2.73846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.13904e-06
+
+
+Time now is: 2.74872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.1376e-06
+
+
+Time now is: 2.75897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.14383e-06
+
+
+Time now is: 2.76923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.13078e-06
+
+
+Time now is: 2.77949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.09318e-06
+
+
+Time now is: 2.78974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.07841e-06
+
+
+Time now is: 2.8  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.04797e-06
+
+
+Time now is: 2.81026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.00875e-06
+
+
+Time now is: 2.82051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.96377e-06
+
+
+Time now is: 2.83077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.90841e-06
+
+
+Time now is: 2.84103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.84673e-06
+
+
+Time now is: 2.85128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.77852e-06
+
+
+Time now is: 2.86154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.70588e-06
+
+
+Time now is: 2.87179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.62918e-06
+
+
+Time now is: 2.88205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.54357e-06
+
+
+Time now is: 2.89231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.44636e-06
+
+
+Time now is: 2.90256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.33987e-06
+
+
+Time now is: 2.91282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.43602e-06
+
+
+Time now is: 2.92308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.56481e-06
+
+
+Time now is: 2.93333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.6822e-06
+
+
+Time now is: 2.94359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.78961e-06
+
+
+Time now is: 2.95385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.88608e-06
+
+
+Time now is: 2.9641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.97008e-06
+
+
+Time now is: 2.97436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.04159e-06
+
+
+Time now is: 2.98462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.1005e-06
+
+
+Time now is: 2.99487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.14676e-06
+
+
+Time now is: 3.00513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.18041e-06
+
+
+Time now is: 3.01538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.20146e-06
+
+
+Time now is: 3.02564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.20993e-06
+
+
+Time now is: 3.0359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.20576e-06
+
+
+Time now is: 3.04615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.18898e-06
+
+
+Time now is: 3.05641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.16402e-06
+
+
+Time now is: 3.06667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.12691e-06
+
+
+Time now is: 3.07692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.07733e-06
+
+
+Time now is: 3.08718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  7.01553e-06
+
+
+Time now is: 3.09744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.94178e-06
+
+
+Time now is: 3.10769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.85639e-06
+
+
+Time now is: 3.11795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.75968e-06
+
+
+Time now is: 3.12821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.65198e-06
+
+
+Time now is: 3.13846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.53366e-06
+
+
+Time now is: 3.14872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.40511e-06
+
+
+Time now is: 3.15897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.26677e-06
+
+
+Time now is: 3.16923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  6.11894e-06
+
+
+Time now is: 3.17949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.96574e-06
+
+
+Time now is: 3.18974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.78582e-06
+
+
+Time now is: 3.2  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.61814e-06
+
+
+Time now is: 3.21026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.44235e-06
+
+
+Time now is: 3.22051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.25705e-06
+
+
+Time now is: 3.23077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.06419e-06
+
+
+Time now is: 3.24103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  4.86525e-06
+
+
+Time now is: 3.25128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  4.66124e-06
+
+
+Time now is: 3.26154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  4.45347e-06
+
+
+Time now is: 3.27179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  4.24162e-06
+
+
+Time now is: 3.28205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  4.02625e-06
+
+
+Time now is: 3.29231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.70698e-06
+
+
+Time now is: 3.30256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.3776e-06
+
+
+Time now is: 3.31282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.04304e-06
+
+
+Time now is: 3.32308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  8.70333e-06
+
+
+Time now is: 3.33333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  8.35701e-06
+
+
+Time now is: 3.34359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  8.0049e-06
+
+
+Time now is: 3.35385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.64778e-06
+
+
+Time now is: 3.3641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.28644e-06
+
+
+Time now is: 3.37436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.92162e-06
+
+
+Time now is: 3.38462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.55407e-06
+
+
+Time now is: 3.39487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.40186e-06
+
+
+Time now is: 3.40513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.36869e-06
+
+
+Time now is: 3.41538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.336e-06
+
+
+Time now is: 3.42564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.30257e-06
+
+
+Time now is: 3.4359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.44347e-06
+
+
+Time now is: 3.44615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.70915e-06
+
+
+Time now is: 3.45641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.97303e-06
+
+
+Time now is: 3.46667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.23092e-06
+
+
+Time now is: 3.47692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.48226e-06
+
+
+Time now is: 3.48718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.72652e-06
+
+
+Time now is: 3.49744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.96728e-06
+
+
+Time now is: 3.50769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  8.20689e-06
+
+
+Time now is: 3.51795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  8.43714e-06
+
+
+Time now is: 3.52821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  8.66366e-06
+
+
+Time now is: 3.53846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  8.8792e-06
+
+
+Time now is: 3.54872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.08307e-06
+
+
+Time now is: 3.55897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.27772e-06
+
+
+Time now is: 3.56923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.46321e-06
+
+
+Time now is: 3.57949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.63644e-06
+
+
+Time now is: 3.58974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.79712e-06
+
+
+Time now is: 3.6  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.94502e-06
+
+
+Time now is: 3.61026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.84578e-06
+
+
+Time now is: 3.62051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.89086e-06
+
+
+Time now is: 3.63077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.92845e-06
+
+
+Time now is: 3.64103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.9565e-06
+
+
+Time now is: 3.65128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.97285e-06
+
+
+Time now is: 3.66154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.97758e-06
+
+
+Time now is: 3.67179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.97086e-06
+
+
+Time now is: 3.68205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.95291e-06
+
+
+Time now is: 3.69231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.92401e-06
+
+
+Time now is: 3.70256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.88446e-06
+
+
+Time now is: 3.71282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.83869e-06
+
+
+Time now is: 3.72308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.78785e-06
+
+
+Time now is: 3.73333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.72767e-06
+
+
+Time now is: 3.74359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.65843e-06
+
+
+Time now is: 3.75385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.58232e-06
+
+
+Time now is: 3.7641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.5021e-06
+
+
+Time now is: 3.77436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.41325e-06
+
+
+Time now is: 3.78462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.31613e-06
+
+
+Time now is: 3.79487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.21111e-06
+
+
+Time now is: 3.80513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  5.09853e-06
+
+
+Time now is: 3.81538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  4.97867e-06
+
+
+Time now is: 3.82564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  6 ;   residual:  4.85179e-06
+
+
+Time now is: 3.8359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.8977e-06
+
+
+Time now is: 3.84615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.71924e-06
+
+
+Time now is: 3.85641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.52979e-06
+
+
+Time now is: 3.86667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.32965e-06
+
+
+Time now is: 3.87692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  9.11926e-06
+
+
+Time now is: 3.88718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  8.90922e-06
+
+
+Time now is: 3.89744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  8.69557e-06
+
+
+Time now is: 3.90769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  8.47366e-06
+
+
+Time now is: 3.91795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  8.24405e-06
+
+
+Time now is: 3.92821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  8.00729e-06
+
+
+Time now is: 3.93846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.7639e-06
+
+
+Time now is: 3.94872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.51432e-06
+
+
+Time now is: 3.95897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.25894e-06
+
+
+Time now is: 3.96923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.99812e-06
+
+
+Time now is: 3.97949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.73216e-06
+
+
+Time now is: 3.98974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.46135e-06
+
+
+Time now is: 4  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.20015e-06
+
+
+Time now is: 4.01026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.93559e-06
+
+
+Time now is: 4.02051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.79978e-06
+
+
+Time now is: 4.03077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.77286e-06
+
+
+Time now is: 4.04103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.74382e-06
+
+
+Time now is: 4.05128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.71207e-06
+
+
+Time now is: 4.06154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.67763e-06
+
+
+Time now is: 4.07179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.64027e-06
+
+
+Time now is: 4.08205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.59979e-06
+
+
+Time now is: 4.09231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.55716e-06
+
+
+Time now is: 4.10256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.52078e-06
+
+
+Time now is: 4.11282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.48311e-06
+
+
+Time now is: 4.12308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.44408e-06
+
+
+Time now is: 4.13333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.40359e-06
+
+
+Time now is: 4.14359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.36156e-06
+
+
+Time now is: 4.15385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.31792e-06
+
+
+Time now is: 4.1641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.50451e-06
+
+
+Time now is: 4.17436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.72131e-06
+
+
+Time now is: 4.18462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.93005e-06
+
+
+Time now is: 4.19487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.13023e-06
+
+
+Time now is: 4.20513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.32138e-06
+
+
+Time now is: 4.21538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.50305e-06
+
+
+Time now is: 4.22564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.67484e-06
+
+
+Time now is: 4.2359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.83635e-06
+
+
+Time now is: 4.24615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.98725e-06
+
+
+Time now is: 4.25641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.12723e-06
+
+
+Time now is: 4.26667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.25602e-06
+
+
+Time now is: 4.27692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.37566e-06
+
+
+Time now is: 4.28718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.48464e-06
+
+
+Time now is: 4.29744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.58193e-06
+
+
+Time now is: 4.30769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.66736e-06
+
+
+Time now is: 4.31795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.74077e-06
+
+
+Time now is: 4.32821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.80208e-06
+
+
+Time now is: 4.33846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.85119e-06
+
+
+Time now is: 4.34872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.88808e-06
+
+
+Time now is: 4.35897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.91272e-06
+
+
+Time now is: 4.36923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.92515e-06
+
+
+Time now is: 4.37949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.92543e-06
+
+
+Time now is: 4.38974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.91367e-06
+
+
+Time now is: 4.4  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.88998e-06
+
+
+Time now is: 4.41026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.85451e-06
+
+
+Time now is: 4.42051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.80745e-06
+
+
+Time now is: 4.43077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.749e-06
+
+
+Time now is: 4.44103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.67939e-06
+
+
+Time now is: 4.45128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.59888e-06
+
+
+Time now is: 4.46154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.50773e-06
+
+
+Time now is: 4.47179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.40625e-06
+
+
+Time now is: 4.48205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.29725e-06
+
+
+Time now is: 4.49231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.1801e-06
+
+
+Time now is: 4.50256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.05345e-06
+
+
+Time now is: 4.51282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.91766e-06
+
+
+Time now is: 4.52308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.77309e-06
+
+
+Time now is: 4.53333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.62014e-06
+
+
+Time now is: 4.54359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.45922e-06
+
+
+Time now is: 4.55385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.29075e-06
+
+
+Time now is: 4.5641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.11516e-06
+
+
+Time now is: 4.57436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.93287e-06
+
+
+Time now is: 4.58462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.74433e-06
+
+
+Time now is: 4.59487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.55169e-06
+
+
+Time now is: 4.60513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.35261e-06
+
+
+Time now is: 4.61538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.14929e-06
+
+
+Time now is: 4.62564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  4.9416e-06
+
+
+Time now is: 4.6359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  4.7299e-06
+
+
+Time now is: 4.64615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  4.5146e-06
+
+
+Time now is: 4.65641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  4.29618e-06
+
+
+Time now is: 4.66667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  4.07512e-06
+
+
+Time now is: 4.67692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  9.95171e-06
+
+
+Time now is: 4.68718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  9.58886e-06
+
+
+Time now is: 4.69744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  9.22024e-06
+
+
+Time now is: 4.70769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.84669e-06
+
+
+Time now is: 4.71795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.46898e-06
+
+
+Time now is: 4.72821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.08781e-06
+
+
+Time now is: 4.73846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.70383e-06
+
+
+Time now is: 4.74872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.35803e-06
+
+
+Time now is: 4.75897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.2827e-06
+
+
+Time now is: 4.76923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.20491e-06
+
+
+Time now is: 4.77949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.11648e-06
+
+
+Time now is: 4.78974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.04318e-06
+
+
+Time now is: 4.8  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.96581e-06
+
+
+Time now is: 4.81026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.88277e-06
+
+
+Time now is: 4.82051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.01505e-06
+
+
+Time now is: 4.83077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.37797e-06
+
+
+Time now is: 4.84103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.73112e-06
+
+
+Time now is: 4.85128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.0737e-06
+
+
+Time now is: 4.86154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.40814e-06
+
+
+Time now is: 4.87179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.75502e-06
+
+
+Time now is: 4.88205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  9.09023e-06
+
+
+Time now is: 4.89231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  9.41509e-06
+
+
+Time now is: 4.90256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  9.73336e-06
+
+
+Time now is: 4.91282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.79616e-06
+
+
+Time now is: 4.92308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.96898e-06
+
+
+Time now is: 4.93333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.12906e-06
+
+
+Time now is: 4.94359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.27875e-06
+
+
+Time now is: 4.95385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.41862e-06
+
+
+Time now is: 4.9641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.54516e-06
+
+
+Time now is: 4.97436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.65824e-06
+
+
+Time now is: 4.98462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.7578e-06
+
+
+Time now is: 4.99487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.84388e-06
+
+
+Time now is: 5.00513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.91654e-06
+
+
+Time now is: 5.01538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.97588e-06
+
+
+Time now is: 5.02564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.0249e-06
+
+
+Time now is: 5.0359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.06861e-06
+
+
+Time now is: 5.04615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.0992e-06
+
+
+Time now is: 5.05641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.11672e-06
+
+
+Time now is: 5.06667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.12122e-06
+
+
+Time now is: 5.07692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.1128e-06
+
+
+Time now is: 5.08718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.09158e-06
+
+
+Time now is: 5.09744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.06225e-06
+
+
+Time now is: 5.10769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  7.02473e-06
+
+
+Time now is: 5.11795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.97439e-06
+
+
+Time now is: 5.12821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.91557e-06
+
+
+Time now is: 5.13846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.84769e-06
+
+
+Time now is: 5.14872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.76923e-06
+
+
+Time now is: 5.15897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.68497e-06
+
+
+Time now is: 5.16923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.5894e-06
+
+
+Time now is: 5.17949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.48277e-06
+
+
+Time now is: 5.18974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.36538e-06
+
+
+Time now is: 5.2  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.23755e-06
+
+
+Time now is: 5.21026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  6.09963e-06
+
+
+Time now is: 5.22051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.952e-06
+
+
+Time now is: 5.23077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.79508e-06
+
+
+Time now is: 5.24103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.63541e-06
+
+
+Time now is: 5.25128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.46903e-06
+
+
+Time now is: 5.26154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.3037e-06
+
+
+Time now is: 5.27179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  5.13121e-06
+
+
+Time now is: 5.28205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  4.95202e-06
+
+
+Time now is: 5.29231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  4.76663e-06
+
+
+Time now is: 5.30256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  4.57552e-06
+
+
+Time now is: 5.31282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  5 ;   residual:  4.38484e-06
+
+
+Time now is: 5.32308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  9.72965e-06
+
+
+Time now is: 5.33333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  9.43502e-06
+
+
+Time now is: 5.34359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  9.13261e-06
+
+
+Time now is: 5.35385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.82306e-06
+
+
+Time now is: 5.3641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.50708e-06
+
+
+Time now is: 5.37436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.18539e-06
+
+
+Time now is: 5.38462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.85875e-06
+
+
+Time now is: 5.39487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.53222e-06
+
+
+Time now is: 5.40513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.20358e-06
+
+
+Time now is: 5.41538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.87205e-06
+
+
+Time now is: 5.42564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.53843e-06
+
+
+Time now is: 5.4359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.22822e-06
+
+
+Time now is: 5.44615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.25913e-06
+
+
+Time now is: 5.45641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.28608e-06
+
+
+Time now is: 5.46667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.30877e-06
+
+
+Time now is: 5.47692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.32696e-06
+
+
+Time now is: 5.48718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.34042e-06
+
+
+Time now is: 5.49744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.349e-06
+
+
+Time now is: 5.50769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.35256e-06
+
+
+Time now is: 5.51795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.35093e-06
+
+
+Time now is: 5.52821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.34408e-06
+
+
+Time now is: 5.53846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.33197e-06
+
+
+Time now is: 5.54872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.31452e-06
+
+
+Time now is: 5.55897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.29168e-06
+
+
+Time now is: 5.56923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.26336e-06
+
+
+Time now is: 5.57949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.2295e-06
+
+
+Time now is: 5.58974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.18994e-06
+
+
+Time now is: 5.6  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.15921e-06
+
+
+Time now is: 5.61026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.14024e-06
+
+
+Time now is: 5.62051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.11673e-06
+
+
+Time now is: 5.63077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.08866e-06
+
+
+Time now is: 5.64103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.20196e-06
+
+
+Time now is: 5.65128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.41736e-06
+
+
+Time now is: 5.66154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.62554e-06
+
+
+Time now is: 5.67179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.82921e-06
+
+
+Time now is: 5.68205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.02472e-06
+
+
+Time now is: 5.69231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.21177e-06
+
+
+Time now is: 5.70256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.3901e-06
+
+
+Time now is: 5.71282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.55945e-06
+
+
+Time now is: 5.72308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.71958e-06
+
+
+Time now is: 5.73333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.87024e-06
+
+
+Time now is: 5.74359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.01199e-06
+
+
+Time now is: 5.75385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.14742e-06
+
+
+Time now is: 5.7641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.2749e-06
+
+
+Time now is: 5.77436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.39356e-06
+
+
+Time now is: 5.78462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.50199e-06
+
+
+Time now is: 5.79487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.60005e-06
+
+
+Time now is: 5.80513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.6876e-06
+
+
+Time now is: 5.81538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.76449e-06
+
+
+Time now is: 5.82564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.83063e-06
+
+
+Time now is: 5.8359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.88589e-06
+
+
+Time now is: 5.84615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.9302e-06
+
+
+Time now is: 5.85641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.96348e-06
+
+
+Time now is: 5.86667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.98694e-06
+
+
+Time now is: 5.87692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  9.00159e-06
+
+
+Time now is: 5.88718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  9.00508e-06
+
+
+Time now is: 5.89744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.9974e-06
+
+
+Time now is: 5.90769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.97855e-06
+
+
+Time now is: 5.91795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.9486e-06
+
+
+Time now is: 5.92821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.90761e-06
+
+
+Time now is: 5.93846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.85566e-06
+
+
+Time now is: 5.94872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.79288e-06
+
+
+Time now is: 5.95897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.71941e-06
+
+
+Time now is: 5.96923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.63542e-06
+
+
+Time now is: 5.97949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.54109e-06
+
+
+Time now is: 5.98974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.43664e-06
+
+
+Time now is: 6  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.32231e-06
+
+
+Time now is: 6.01026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.19834e-06
+
+
+Time now is: 6.02051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  8.06503e-06
+
+
+Time now is: 6.03077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.92384e-06
+
+
+Time now is: 6.04103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.77381e-06
+
+
+Time now is: 6.05128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.61525e-06
+
+
+Time now is: 6.06154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.44849e-06
+
+
+Time now is: 6.07179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.27386e-06
+
+
+Time now is: 6.08205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.09174e-06
+
+
+Time now is: 6.09231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.90247e-06
+
+
+Time now is: 6.10256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.70645e-06
+
+
+Time now is: 6.11282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.50598e-06
+
+
+Time now is: 6.12308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.29944e-06
+
+
+Time now is: 6.13333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.08722e-06
+
+
+Time now is: 6.14359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.86973e-06
+
+
+Time now is: 6.15385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.64737e-06
+
+
+Time now is: 6.1641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.42058e-06
+
+
+Time now is: 6.17436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.18978e-06
+
+
+Time now is: 6.18462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.9554e-06
+
+
+Time now is: 6.19487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.71788e-06
+
+
+Time now is: 6.20513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.47765e-06
+
+
+Time now is: 6.21538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.23515e-06
+
+
+Time now is: 6.22564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.8071e-06
+
+
+Time now is: 6.2359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.41737e-06
+
+
+Time now is: 6.24615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.02374e-06
+
+
+Time now is: 6.25641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.62676e-06
+
+
+Time now is: 6.26667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.22699e-06
+
+
+Time now is: 6.27692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.82501e-06
+
+
+Time now is: 6.28718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.42136e-06
+
+
+Time now is: 6.29744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.52972e-06
+
+
+Time now is: 6.30769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.82216e-06
+
+
+Time now is: 6.31795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.10763e-06
+
+
+Time now is: 6.32821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.39511e-06
+
+
+Time now is: 6.33846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.67848e-06
+
+
+Time now is: 6.34872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.98717e-06
+
+
+Time now is: 6.35897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.29109e-06
+
+
+Time now is: 6.36923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.58627e-06
+
+
+Time now is: 6.37949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.87234e-06
+
+
+Time now is: 6.38974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.50858e-06
+
+
+Time now is: 6.4  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.69286e-06
+
+
+Time now is: 6.41026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.86871e-06
+
+
+Time now is: 6.42051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.03537e-06
+
+
+Time now is: 6.43077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.19213e-06
+
+
+Time now is: 6.44103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.33843e-06
+
+
+Time now is: 6.45128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.47383e-06
+
+
+Time now is: 6.46154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.59802e-06
+
+
+Time now is: 6.47179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.71079e-06
+
+
+Time now is: 6.48205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.8194e-06
+
+
+Time now is: 6.49231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.91708e-06
+
+
+Time now is: 6.50256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.00375e-06
+
+
+Time now is: 6.51282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.07943e-06
+
+
+Time now is: 6.52308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.14421e-06
+
+
+Time now is: 6.53333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.19821e-06
+
+
+Time now is: 6.54359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.24156e-06
+
+
+Time now is: 6.55385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.28534e-06
+
+
+Time now is: 6.5641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.32515e-06
+
+
+Time now is: 6.57436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.35505e-06
+
+
+Time now is: 6.58462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.37515e-06
+
+
+Time now is: 6.59487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.3856e-06
+
+
+Time now is: 6.60513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.39239e-06
+
+
+Time now is: 6.61538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.39232e-06
+
+
+Time now is: 6.62564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.38265e-06
+
+
+Time now is: 6.6359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.36345e-06
+
+
+Time now is: 6.64615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.33482e-06
+
+
+Time now is: 6.65641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.29684e-06
+
+
+Time now is: 6.66667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.24959e-06
+
+
+Time now is: 6.67692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.19398e-06
+
+
+Time now is: 6.68718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.13549e-06
+
+
+Time now is: 6.69744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  7.06775e-06
+
+
+Time now is: 6.70769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.99091e-06
+
+
+Time now is: 6.71795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.91225e-06
+
+
+Time now is: 6.72821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.82542e-06
+
+
+Time now is: 6.73846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.73036e-06
+
+
+Time now is: 6.74872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.62726e-06
+
+
+Time now is: 6.75897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.51628e-06
+
+
+Time now is: 6.76923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.40125e-06
+
+
+Time now is: 6.77949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.28037e-06
+
+
+Time now is: 6.78974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.1522e-06
+
+
+Time now is: 6.8  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  6.01699e-06
+
+
+Time now is: 6.81026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.8784e-06
+
+
+Time now is: 6.82051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.7376e-06
+
+
+Time now is: 6.83077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.59083e-06
+
+
+Time now is: 6.84103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.43842e-06
+
+
+Time now is: 6.85128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.28069e-06
+
+
+Time now is: 6.86154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  5.12157e-06
+
+
+Time now is: 6.87179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.95911e-06
+
+
+Time now is: 6.88205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.79225e-06
+
+
+Time now is: 6.89231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.62134e-06
+
+
+Time now is: 6.90256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.451e-06
+
+
+Time now is: 6.91282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.75674e-06
+
+
+Time now is: 6.92308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.47346e-06
+
+
+Time now is: 6.93333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.19512e-06
+
+
+Time now is: 6.94359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.91294e-06
+
+
+Time now is: 6.95385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.62639e-06
+
+
+Time now is: 6.9641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.33591e-06
+
+
+Time now is: 6.97436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.04193e-06
+
+
+Time now is: 6.98462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.79712e-06
+
+
+Time now is: 6.99487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.56319e-06
+
+
+Time now is: 7.00513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.32293e-06
+
+
+Time now is: 7.01538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.07668e-06
+
+
+Time now is: 7.02564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.83763e-06
+
+
+Time now is: 7.0359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.83974e-06
+
+
+Time now is: 7.04615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.83795e-06
+
+
+Time now is: 7.05641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.83235e-06
+
+
+Time now is: 7.06667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.82296e-06
+
+
+Time now is: 7.07692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.80976e-06
+
+
+Time now is: 7.08718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.7927e-06
+
+
+Time now is: 7.09744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.77176e-06
+
+
+Time now is: 7.10769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.74692e-06
+
+
+Time now is: 7.11795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.71817e-06
+
+
+Time now is: 7.12821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.68553e-06
+
+
+Time now is: 7.13846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.64901e-06
+
+
+Time now is: 7.14872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.60854e-06
+
+
+Time now is: 7.15897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.56413e-06
+
+
+Time now is: 7.16923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.51596e-06
+
+
+Time now is: 7.17949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.4641e-06
+
+
+Time now is: 7.18974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.4086e-06
+
+
+Time now is: 7.2  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.34947e-06
+
+
+Time now is: 7.21026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.28931e-06
+
+
+Time now is: 7.22051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.23237e-06
+
+
+Time now is: 7.23077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.19376e-06
+
+
+Time now is: 7.24103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.15218e-06
+
+
+Time now is: 7.25128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.23245e-06
+
+
+Time now is: 7.26154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.46898e-06
+
+
+Time now is: 7.27179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.69737e-06
+
+
+Time now is: 7.28205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.92211e-06
+
+
+Time now is: 7.29231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.16214e-06
+
+
+Time now is: 7.30256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.39336e-06
+
+
+Time now is: 7.31282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.61549e-06
+
+
+Time now is: 7.32308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.82825e-06
+
+
+Time now is: 7.33333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.0314e-06
+
+
+Time now is: 7.34359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.2247e-06
+
+
+Time now is: 7.35385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.41066e-06
+
+
+Time now is: 7.3641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.60183e-06
+
+
+Time now is: 7.37436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.78287e-06
+
+
+Time now is: 7.38462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.95364e-06
+
+
+Time now is: 7.39487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.11398e-06
+
+
+Time now is: 7.40513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.26379e-06
+
+
+Time now is: 7.41538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.40297e-06
+
+
+Time now is: 7.42564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.53587e-06
+
+
+Time now is: 7.4359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.66498e-06
+
+
+Time now is: 7.44615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.78357e-06
+
+
+Time now is: 7.45641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.89158e-06
+
+
+Time now is: 7.46667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.98895e-06
+
+
+Time now is: 7.47692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.80694e-06
+
+
+Time now is: 7.48718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.84557e-06
+
+
+Time now is: 7.49744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.87891e-06
+
+
+Time now is: 7.50769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.90556e-06
+
+
+Time now is: 7.51795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.92546e-06
+
+
+Time now is: 7.52821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.93861e-06
+
+
+Time now is: 7.53846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.94498e-06
+
+
+Time now is: 7.54872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.9446e-06
+
+
+Time now is: 7.55897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.93781e-06
+
+
+Time now is: 7.56923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.92516e-06
+
+
+Time now is: 7.57949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.90576e-06
+
+
+Time now is: 7.58974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.87996e-06
+
+
+Time now is: 7.6  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.84773e-06
+
+
+Time now is: 7.61026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.80916e-06
+
+
+Time now is: 7.62051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.76432e-06
+
+
+Time now is: 7.63077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.71332e-06
+
+
+Time now is: 7.64103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.6563e-06
+
+
+Time now is: 7.65128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.59339e-06
+
+
+Time now is: 7.66154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  4 ;   residual:  4.52476e-06
+
+
+Time now is: 7.67179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.88819e-06
+
+
+Time now is: 7.68205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.77696e-06
+
+
+Time now is: 7.69231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.65687e-06
+
+
+Time now is: 7.70256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.52823e-06
+
+
+Time now is: 7.71282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.39439e-06
+
+
+Time now is: 7.72308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.25371e-06
+
+
+Time now is: 7.73333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  9.10496e-06
+
+
+Time now is: 7.74359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.94839e-06
+
+
+Time now is: 7.75385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.78423e-06
+
+
+Time now is: 7.7641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.61271e-06
+
+
+Time now is: 7.77436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.43407e-06
+
+
+Time now is: 7.78462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.24853e-06
+
+
+Time now is: 7.79487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  8.05631e-06
+
+
+Time now is: 7.80513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.85767e-06
+
+
+Time now is: 7.81538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.65312e-06
+
+
+Time now is: 7.82564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.44559e-06
+
+
+Time now is: 7.8359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.23236e-06
+
+
+Time now is: 7.84615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.01369e-06
+
+
+Time now is: 7.85641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.78988e-06
+
+
+Time now is: 7.86667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.56123e-06
+
+
+Time now is: 7.87692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.32804e-06
+
+
+Time now is: 7.88718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.09065e-06
+
+
+Time now is: 7.89744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.84939e-06
+
+
+Time now is: 7.90769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.60461e-06
+
+
+Time now is: 7.91795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.35669e-06
+
+
+Time now is: 7.92821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.10599e-06
+
+
+Time now is: 7.93846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.85291e-06
+
+
+Time now is: 7.94872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.59782e-06
+
+
+Time now is: 7.95897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.34282e-06
+
+
+Time now is: 7.96923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.59198e-06
+
+
+Time now is: 7.97949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.22195e-06
+
+
+Time now is: 7.98974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.85516e-06
+
+
+Time now is: 8  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.48686e-06
+
+
+Time now is: 8.01026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.30526e-06
+
+
+Time now is: 8.02051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.34148e-06
+
+
+Time now is: 8.03077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.37518e-06
+
+
+Time now is: 8.04103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.40637e-06
+
+
+Time now is: 8.05128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.43502e-06
+
+
+Time now is: 8.06154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.46111e-06
+
+
+Time now is: 8.07179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.48465e-06
+
+
+Time now is: 8.08205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.50562e-06
+
+
+Time now is: 8.09231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.66838e-06
+
+
+Time now is: 8.10256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.908e-06
+
+
+Time now is: 8.11282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.14349e-06
+
+
+Time now is: 8.12308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.37476e-06
+
+
+Time now is: 8.13333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.6017e-06
+
+
+Time now is: 8.14359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.82418e-06
+
+
+Time now is: 8.15385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.24706e-06
+
+
+Time now is: 8.1641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.42555e-06
+
+
+Time now is: 8.17436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.59969e-06
+
+
+Time now is: 8.18462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.76891e-06
+
+
+Time now is: 8.19487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.93264e-06
+
+
+Time now is: 8.20513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.0903e-06
+
+
+Time now is: 8.21538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.24136e-06
+
+
+Time now is: 8.22564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.38535e-06
+
+
+Time now is: 8.2359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.52184e-06
+
+
+Time now is: 8.24615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.6505e-06
+
+
+Time now is: 8.25641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.77104e-06
+
+
+Time now is: 8.26667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.88322e-06
+
+
+Time now is: 8.27692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.98687e-06
+
+
+Time now is: 8.28718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.08486e-06
+
+
+Time now is: 8.29744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.18724e-06
+
+
+Time now is: 8.30769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.28131e-06
+
+
+Time now is: 8.31795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.36702e-06
+
+
+Time now is: 8.32821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.44437e-06
+
+
+Time now is: 8.33846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.51335e-06
+
+
+Time now is: 8.34872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.57498e-06
+
+
+Time now is: 8.35897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.63495e-06
+
+
+Time now is: 8.36923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.68678e-06
+
+
+Time now is: 8.37949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.7305e-06
+
+
+Time now is: 8.38974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.76616e-06
+
+
+Time now is: 8.4  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.7938e-06
+
+
+Time now is: 8.41026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.81349e-06
+
+
+Time now is: 8.42051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.82527e-06
+
+
+Time now is: 8.43077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.83076e-06
+
+
+Time now is: 8.44103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.84003e-06
+
+
+Time now is: 8.45128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.84153e-06
+
+
+Time now is: 8.46154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.83531e-06
+
+
+Time now is: 8.47179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.82143e-06
+
+
+Time now is: 8.48205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.79994e-06
+
+
+Time now is: 8.49231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.77091e-06
+
+
+Time now is: 8.50256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.7344e-06
+
+
+Time now is: 8.51282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.69545e-06
+
+
+Time now is: 8.52308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.65039e-06
+
+
+Time now is: 8.53333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.59797e-06
+
+
+Time now is: 8.54359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.53829e-06
+
+
+Time now is: 8.55385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.47143e-06
+
+
+Time now is: 8.5641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.39751e-06
+
+
+Time now is: 8.57436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.31662e-06
+
+
+Time now is: 8.58462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.22991e-06
+
+
+Time now is: 8.59487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.14194e-06
+
+
+Time now is: 8.60513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  7.0473e-06
+
+
+Time now is: 8.61538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.95015e-06
+
+
+Time now is: 8.62564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.84712e-06
+
+
+Time now is: 8.6359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.73809e-06
+
+
+Time now is: 8.64615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.62322e-06
+
+
+Time now is: 8.65641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.50268e-06
+
+
+Time now is: 8.66667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.37899e-06
+
+
+Time now is: 8.67692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.25348e-06
+
+
+Time now is: 8.68718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  6.12273e-06
+
+
+Time now is: 8.69744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.98695e-06
+
+
+Time now is: 8.70769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.84634e-06
+
+
+Time now is: 8.71795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.70479e-06
+
+
+Time now is: 8.72821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.5616e-06
+
+
+Time now is: 8.73846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.43453e-06
+
+
+Time now is: 8.74872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.32044e-06
+
+
+Time now is: 8.75897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.20112e-06
+
+
+Time now is: 8.76923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.07874e-06
+
+
+Time now is: 8.77949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.95711e-06
+
+
+Time now is: 8.78974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.83041e-06
+
+
+Time now is: 8.8  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.69879e-06
+
+
+Time now is: 8.81026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.88793e-06
+
+
+Time now is: 8.82051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.70283e-06
+
+
+Time now is: 8.83077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.52221e-06
+
+
+Time now is: 8.84103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.3356e-06
+
+
+Time now is: 8.85128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.14312e-06
+
+
+Time now is: 8.86154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.94494e-06
+
+
+Time now is: 8.87179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.74126e-06
+
+
+Time now is: 8.88205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.54486e-06
+
+
+Time now is: 8.89231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.34352e-06
+
+
+Time now is: 8.90256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.13688e-06
+
+
+Time now is: 8.91282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.92516e-06
+
+
+Time now is: 8.92308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.70857e-06
+
+
+Time now is: 8.93333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.48733e-06
+
+
+Time now is: 8.94359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.27969e-06
+
+
+Time now is: 8.95385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.07198e-06
+
+
+Time now is: 8.9641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.86153e-06
+
+
+Time now is: 8.97436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.86275e-06
+
+
+Time now is: 8.98462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.86128e-06
+
+
+Time now is: 8.99487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.85721e-06
+
+
+Time now is: 9.00513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.85062e-06
+
+
+Time now is: 9.01538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.84152e-06
+
+
+Time now is: 9.02564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.82992e-06
+
+
+Time now is: 9.0359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.81582e-06
+
+
+Time now is: 9.04615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.7992e-06
+
+
+Time now is: 9.05641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.78005e-06
+
+
+Time now is: 9.06667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.7612e-06
+
+
+Time now is: 9.07692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.74469e-06
+
+
+Time now is: 9.08718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.72563e-06
+
+
+Time now is: 9.09744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.704e-06
+
+
+Time now is: 9.10769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.67981e-06
+
+
+Time now is: 9.11795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.65306e-06
+
+
+Time now is: 9.12821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.62376e-06
+
+
+Time now is: 9.13846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.59193e-06
+
+
+Time now is: 9.14872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.55757e-06
+
+
+Time now is: 9.15897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.52072e-06
+
+
+Time now is: 9.16923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.48138e-06
+
+
+Time now is: 9.17949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.43957e-06
+
+
+Time now is: 9.18974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.39528e-06
+
+
+Time now is: 9.2  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.38775e-06
+
+
+Time now is: 9.21026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.59255e-06
+
+
+Time now is: 9.22051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.79239e-06
+
+
+Time now is: 9.23077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.98715e-06
+
+
+Time now is: 9.24103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.1767e-06
+
+
+Time now is: 9.25128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.36091e-06
+
+
+Time now is: 9.26154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.53966e-06
+
+
+Time now is: 9.27179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.71812e-06
+
+
+Time now is: 9.28205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.91295e-06
+
+
+Time now is: 9.29231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.10199e-06
+
+
+Time now is: 9.30256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.2851e-06
+
+
+Time now is: 9.31282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.46215e-06
+
+
+Time now is: 9.32308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.63303e-06
+
+
+Time now is: 9.33333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.79762e-06
+
+
+Time now is: 9.34359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.95581e-06
+
+
+Time now is: 9.35385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.10751e-06
+
+
+Time now is: 9.3641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.25262e-06
+
+
+Time now is: 9.37436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.39106e-06
+
+
+Time now is: 9.38462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.53023e-06
+
+
+Time now is: 9.39487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.67351e-06
+
+
+Time now is: 9.40513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.80998e-06
+
+
+Time now is: 9.41538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.93958e-06
+
+
+Time now is: 9.42564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.74888e-06
+
+
+Time now is: 9.4359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.82535e-06
+
+
+Time now is: 9.44615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.89639e-06
+
+
+Time now is: 9.45641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.96514e-06
+
+
+Time now is: 9.46667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.03161e-06
+
+
+Time now is: 9.47692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.09259e-06
+
+
+Time now is: 9.48718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.14804e-06
+
+
+Time now is: 9.49744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.19793e-06
+
+
+Time now is: 9.50769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.24224e-06
+
+
+Time now is: 9.51795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.28092e-06
+
+
+Time now is: 9.52821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.31396e-06
+
+
+Time now is: 9.53846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.34135e-06
+
+
+Time now is: 9.54872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.36408e-06
+
+
+Time now is: 9.55897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.38499e-06
+
+
+Time now is: 9.56923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.40032e-06
+
+
+Time now is: 9.57949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.41007e-06
+
+
+Time now is: 9.58974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.41406e-06
+
+
+Time now is: 9.6  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.41275e-06
+
+
+Time now is: 9.61026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.40592e-06
+
+
+Time now is: 9.62051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.39356e-06
+
+
+Time now is: 9.63077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.37572e-06
+
+
+Time now is: 9.64103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.35275e-06
+
+
+Time now is: 9.65128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.32783e-06
+
+
+Time now is: 9.66154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.29769e-06
+
+
+Time now is: 9.67179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.26242e-06
+
+
+Time now is: 9.68205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.22208e-06
+
+
+Time now is: 9.69231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.17676e-06
+
+
+Time now is: 9.70256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.12654e-06
+
+
+Time now is: 9.71282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.07288e-06
+
+
+Time now is: 9.72308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  5.01494e-06
+
+
+Time now is: 9.73333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.95231e-06
+
+
+Time now is: 9.74359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.88543e-06
+
+
+Time now is: 9.75385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.81643e-06
+
+
+Time now is: 9.7641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.743e-06
+
+
+Time now is: 9.77436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.66523e-06
+
+
+Time now is: 9.78462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  3 ;   residual:  4.58322e-06
+
+
+Time now is: 9.79487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.95851e-06
+
+
+Time now is: 9.80513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.83194e-06
+
+
+Time now is: 9.81538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.69982e-06
+
+
+Time now is: 9.82564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.56367e-06
+
+
+Time now is: 9.8359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.4267e-06
+
+
+Time now is: 9.84615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.28452e-06
+
+
+Time now is: 9.85641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  9.13726e-06
+
+
+Time now is: 9.86667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.98507e-06
+
+
+Time now is: 9.87692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.82812e-06
+
+
+Time now is: 9.88718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.66654e-06
+
+
+Time now is: 9.89744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.5005e-06
+
+
+Time now is: 9.90769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.33014e-06
+
+
+Time now is: 9.91795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  8.15563e-06
+
+
+Time now is: 9.92821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.97711e-06
+
+
+Time now is: 9.93846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.79476e-06
+
+
+Time now is: 9.94872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.60873e-06
+
+
+Time now is: 9.95897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.42065e-06
+
+
+Time now is: 9.96923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.23072e-06
+
+
+Time now is: 9.97949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.03751e-06
+
+
+Time now is: 9.98974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.84117e-06
+
+
+Time now is: 10  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.64189e-06
+
+
+Time now is: 10.0103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.44164e-06
+
+
+Time now is: 10.0205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.24084e-06
+
+
+Time now is: 10.0308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.0376e-06
+
+
+Time now is: 10.041  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.83212e-06
+
+
+Time now is: 10.0513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.62455e-06
+
+
+Time now is: 10.0615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.41509e-06
+
+
+Time now is: 10.0718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.2039e-06
+
+
+Time now is: 10.0821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.99116e-06
+
+
+Time now is: 10.0923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.77704e-06
+
+
+Time now is: 10.1026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.56173e-06
+
+
+Time now is: 10.1128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.80453e-06
+
+
+Time now is: 10.1231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.57177e-06
+
+
+Time now is: 10.1333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.33823e-06
+
+
+Time now is: 10.1436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.10395e-06
+
+
+Time now is: 10.1538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.86897e-06
+
+
+Time now is: 10.1641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.79234e-06
+
+
+Time now is: 10.1744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.71987e-06
+
+
+Time now is: 10.1846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.64598e-06
+
+
+Time now is: 10.1949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.57067e-06
+
+
+Time now is: 10.2051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.49396e-06
+
+
+Time now is: 10.2154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.49001e-06
+
+
+Time now is: 10.2256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.50224e-06
+
+
+Time now is: 10.2359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.51335e-06
+
+
+Time now is: 10.2462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.52337e-06
+
+
+Time now is: 10.2564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.53433e-06
+
+
+Time now is: 10.2667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.54637e-06
+
+
+Time now is: 10.2769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.55737e-06
+
+
+Time now is: 10.2872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.65328e-06
+
+
+Time now is: 10.2974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.78895e-06
+
+
+Time now is: 10.3077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.92704e-06
+
+
+Time now is: 10.3179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.06615e-06
+
+
+Time now is: 10.3282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.20357e-06
+
+
+Time now is: 10.3385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.33931e-06
+
+
+Time now is: 10.3487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.47337e-06
+
+
+Time now is: 10.359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.60576e-06
+
+
+Time now is: 10.3692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.73647e-06
+
+
+Time now is: 10.3795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.8655e-06
+
+
+Time now is: 10.3897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.99284e-06
+
+
+Time now is: 10.4  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.13537e-06
+
+
+Time now is: 10.4103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.27777e-06
+
+
+Time now is: 10.4205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.4179e-06
+
+
+Time now is: 10.4308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.55552e-06
+
+
+Time now is: 10.441  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.69031e-06
+
+
+Time now is: 10.4513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.82196e-06
+
+
+Time now is: 10.4615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.9501e-06
+
+
+Time now is: 10.4718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.07442e-06
+
+
+Time now is: 10.4821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.19457e-06
+
+
+Time now is: 10.4923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.31025e-06
+
+
+Time now is: 10.5026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.4212e-06
+
+
+Time now is: 10.5128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.52834e-06
+
+
+Time now is: 10.5231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.63822e-06
+
+
+Time now is: 10.5333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.74783e-06
+
+
+Time now is: 10.5436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.85225e-06
+
+
+Time now is: 10.5538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.95133e-06
+
+
+Time now is: 10.5641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.04497e-06
+
+
+Time now is: 10.5744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.13306e-06
+
+
+Time now is: 10.5846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.21554e-06
+
+
+Time now is: 10.5949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.29237e-06
+
+
+Time now is: 10.6051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.36353e-06
+
+
+Time now is: 10.6154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.43302e-06
+
+
+Time now is: 10.6256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.49844e-06
+
+
+Time now is: 10.6359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.55847e-06
+
+
+Time now is: 10.6462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.61312e-06
+
+
+Time now is: 10.6564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.66243e-06
+
+
+Time now is: 10.6667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.70643e-06
+
+
+Time now is: 10.6769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.74518e-06
+
+
+Time now is: 10.6872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.78463e-06
+
+
+Time now is: 10.6974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.82344e-06
+
+
+Time now is: 10.7077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.85984e-06
+
+
+Time now is: 10.7179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.8912e-06
+
+
+Time now is: 10.7282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.91758e-06
+
+
+Time now is: 10.7385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.939e-06
+
+
+Time now is: 10.7487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.9555e-06
+
+
+Time now is: 10.759  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.96711e-06
+
+
+Time now is: 10.7692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.97387e-06
+
+
+Time now is: 10.7795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.97581e-06
+
+
+Time now is: 10.7897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.97389e-06
+
+
+Time now is: 10.8  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.97256e-06
+
+
+Time now is: 10.8103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.9664e-06
+
+
+Time now is: 10.8205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.95544e-06
+
+
+Time now is: 10.8308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.9397e-06
+
+
+Time now is: 10.841  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.92213e-06
+
+
+Time now is: 10.8513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.90041e-06
+
+
+Time now is: 10.8615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.87398e-06
+
+
+Time now is: 10.8718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.84296e-06
+
+
+Time now is: 10.8821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.81228e-06
+
+
+Time now is: 10.8923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.77694e-06
+
+
+Time now is: 10.9026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.737e-06
+
+
+Time now is: 10.9128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.69251e-06
+
+
+Time now is: 10.9231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.64351e-06
+
+
+Time now is: 10.9333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.59006e-06
+
+
+Time now is: 10.9436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.53222e-06
+
+
+Time now is: 10.9538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.47005e-06
+
+
+Time now is: 10.9641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.40573e-06
+
+
+Time now is: 10.9744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.3404e-06
+
+
+Time now is: 10.9846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.27089e-06
+
+
+Time now is: 10.9949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.19729e-06
+
+
+Time now is: 11.0051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.11967e-06
+
+
+Time now is: 11.0154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  7.03809e-06
+
+
+Time now is: 11.0256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.95331e-06
+
+
+Time now is: 11.0359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.86995e-06
+
+
+Time now is: 11.0462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.78284e-06
+
+
+Time now is: 11.0564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.69206e-06
+
+
+Time now is: 11.0667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.5977e-06
+
+
+Time now is: 11.0769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.50417e-06
+
+
+Time now is: 11.0872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.41021e-06
+
+
+Time now is: 11.0974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.32091e-06
+
+
+Time now is: 11.1077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.24975e-06
+
+
+Time now is: 11.1179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.17497e-06
+
+
+Time now is: 11.1282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.09744e-06
+
+
+Time now is: 11.1385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  6.02357e-06
+
+
+Time now is: 11.1487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.94613e-06
+
+
+Time now is: 11.159  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.86517e-06
+
+
+Time now is: 11.1692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.78366e-06
+
+
+Time now is: 11.1795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.70303e-06
+
+
+Time now is: 11.1897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.61888e-06
+
+
+Time now is: 11.2  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.53125e-06
+
+
+Time now is: 11.2103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.4402e-06
+
+
+Time now is: 11.2205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.34577e-06
+
+
+Time now is: 11.2308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.24929e-06
+
+
+Time now is: 11.241  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.15431e-06
+
+
+Time now is: 11.2513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.05602e-06
+
+
+Time now is: 11.2615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.95994e-06
+
+
+Time now is: 11.2718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.8657e-06
+
+
+Time now is: 11.2821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.76844e-06
+
+
+Time now is: 11.2923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.94842e-06
+
+
+Time now is: 11.3026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.83163e-06
+
+
+Time now is: 11.3128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.71496e-06
+
+
+Time now is: 11.3231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.60319e-06
+
+
+Time now is: 11.3333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.48906e-06
+
+
+Time now is: 11.3436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.37262e-06
+
+
+Time now is: 11.3538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.25389e-06
+
+
+Time now is: 11.3641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.13291e-06
+
+
+Time now is: 11.3744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.00971e-06
+
+
+Time now is: 11.3846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.88433e-06
+
+
+Time now is: 11.3949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.7568e-06
+
+
+Time now is: 11.4051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.62714e-06
+
+
+Time now is: 11.4154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.4954e-06
+
+
+Time now is: 11.4256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.36162e-06
+
+
+Time now is: 11.4359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.22585e-06
+
+
+Time now is: 11.4462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.09827e-06
+
+
+Time now is: 11.4564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.97278e-06
+
+
+Time now is: 11.4667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.84556e-06
+
+
+Time now is: 11.4769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.71664e-06
+
+
+Time now is: 11.4872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.58606e-06
+
+
+Time now is: 11.4974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.45384e-06
+
+
+Time now is: 11.5077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.32003e-06
+
+
+Time now is: 11.5179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.18468e-06
+
+
+Time now is: 11.5282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.10216e-06
+
+
+Time now is: 11.5385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.08484e-06
+
+
+Time now is: 11.5487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.06643e-06
+
+
+Time now is: 11.559  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.04698e-06
+
+
+Time now is: 11.5692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.02652e-06
+
+
+Time now is: 11.5795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.00505e-06
+
+
+Time now is: 11.5897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.98681e-06
+
+
+Time now is: 11.6  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.98357e-06
+
+
+Time now is: 11.6103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.97907e-06
+
+
+Time now is: 11.6205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.97336e-06
+
+
+Time now is: 11.6308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.96648e-06
+
+
+Time now is: 11.641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.95845e-06
+
+
+Time now is: 11.6513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.9493e-06
+
+
+Time now is: 11.6615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.93904e-06
+
+
+Time now is: 11.6718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.9277e-06
+
+
+Time now is: 11.6821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.91528e-06
+
+
+Time now is: 11.6923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.90179e-06
+
+
+Time now is: 11.7026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.88724e-06
+
+
+Time now is: 11.7128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.87164e-06
+
+
+Time now is: 11.7231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.85498e-06
+
+
+Time now is: 11.7333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.83728e-06
+
+
+Time now is: 11.7436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.81854e-06
+
+
+Time now is: 11.7538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.79877e-06
+
+
+Time now is: 11.7641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.77797e-06
+
+
+Time now is: 11.7744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.75614e-06
+
+
+Time now is: 11.7846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.73331e-06
+
+
+Time now is: 11.7949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.70947e-06
+
+
+Time now is: 11.8051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.68464e-06
+
+
+Time now is: 11.8154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.65883e-06
+
+
+Time now is: 11.8256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.63204e-06
+
+
+Time now is: 11.8359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.6043e-06
+
+
+Time now is: 11.8462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.5756e-06
+
+
+Time now is: 11.8564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.54597e-06
+
+
+Time now is: 11.8667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.51541e-06
+
+
+Time now is: 11.8769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.48393e-06
+
+
+Time now is: 11.8872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.45155e-06
+
+
+Time now is: 11.8974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.41829e-06
+
+
+Time now is: 11.9077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.38521e-06
+
+
+Time now is: 11.9179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.35522e-06
+
+
+Time now is: 11.9282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.32434e-06
+
+
+Time now is: 11.9385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.42925e-06
+
+
+Time now is: 11.9487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.5599e-06
+
+
+Time now is: 11.959  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.68876e-06
+
+
+Time now is: 11.9692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.8158e-06
+
+
+Time now is: 11.9795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.94099e-06
+
+
+Time now is: 11.9897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.06431e-06
+
+
+Time now is: 12  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.18573e-06
+
+
+Time now is: 12.0103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.30522e-06
+
+
+Time now is: 12.0205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.42275e-06
+
+
+Time now is: 12.0308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.5383e-06
+
+
+Time now is: 12.041  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.65184e-06
+
+
+Time now is: 12.0513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.76333e-06
+
+
+Time now is: 12.0615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.87276e-06
+
+
+Time now is: 12.0718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.98062e-06
+
+
+Time now is: 12.0821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.08641e-06
+
+
+Time now is: 12.0923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.20029e-06
+
+
+Time now is: 12.1026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.31985e-06
+
+
+Time now is: 12.1128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.43716e-06
+
+
+Time now is: 12.1231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.55219e-06
+
+
+Time now is: 12.1333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.66491e-06
+
+
+Time now is: 12.1436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.7753e-06
+
+
+Time now is: 12.1538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.88331e-06
+
+
+Time now is: 12.1641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.98894e-06
+
+
+Time now is: 12.1744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.09215e-06
+
+
+Time now is: 12.1846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.19292e-06
+
+
+Time now is: 12.1949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.29122e-06
+
+
+Time now is: 12.2051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.38703e-06
+
+
+Time now is: 12.2154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.48034e-06
+
+
+Time now is: 12.2256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.57112e-06
+
+
+Time now is: 12.2359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.65935e-06
+
+
+Time now is: 12.2462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.74502e-06
+
+
+Time now is: 12.2564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.82811e-06
+
+
+Time now is: 12.2667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.9086e-06
+
+
+Time now is: 12.2769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.98649e-06
+
+
+Time now is: 12.2872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.68702e-06
+
+
+Time now is: 12.2974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.76625e-06
+
+
+Time now is: 12.3077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.84212e-06
+
+
+Time now is: 12.3179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.91457e-06
+
+
+Time now is: 12.3282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.98356e-06
+
+
+Time now is: 12.3385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.04905e-06
+
+
+Time now is: 12.3487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.11101e-06
+
+
+Time now is: 12.359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.16939e-06
+
+
+Time now is: 12.3692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.22419e-06
+
+
+Time now is: 12.3795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.27535e-06
+
+
+Time now is: 12.3897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.32287e-06
+
+
+Time now is: 12.4  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.36673e-06
+
+
+Time now is: 12.4103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.41164e-06
+
+
+Time now is: 12.4205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.45434e-06
+
+
+Time now is: 12.4308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.49339e-06
+
+
+Time now is: 12.441  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.52879e-06
+
+
+Time now is: 12.4513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.5605e-06
+
+
+Time now is: 12.4615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.58853e-06
+
+
+Time now is: 12.4718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.61287e-06
+
+
+Time now is: 12.4821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.63351e-06
+
+
+Time now is: 12.4923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.65044e-06
+
+
+Time now is: 12.5026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.66368e-06
+
+
+Time now is: 12.5128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.67323e-06
+
+
+Time now is: 12.5231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.67909e-06
+
+
+Time now is: 12.5333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.68128e-06
+
+
+Time now is: 12.5436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.68073e-06
+
+
+Time now is: 12.5538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.6808e-06
+
+
+Time now is: 12.5641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.6773e-06
+
+
+Time now is: 12.5744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.67024e-06
+
+
+Time now is: 12.5846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.65965e-06
+
+
+Time now is: 12.5949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.64555e-06
+
+
+Time now is: 12.6051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.62799e-06
+
+
+Time now is: 12.6154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.60698e-06
+
+
+Time now is: 12.6256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.58257e-06
+
+
+Time now is: 12.6359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.5548e-06
+
+
+Time now is: 12.6462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.5237e-06
+
+
+Time now is: 12.6564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.48931e-06
+
+
+Time now is: 12.6667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.45169e-06
+
+
+Time now is: 12.6769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.41148e-06
+
+
+Time now is: 12.6872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.37316e-06
+
+
+Time now is: 12.6974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.33173e-06
+
+
+Time now is: 12.7077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.28717e-06
+
+
+Time now is: 12.7179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.23953e-06
+
+
+Time now is: 12.7282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.18884e-06
+
+
+Time now is: 12.7385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.13514e-06
+
+
+Time now is: 12.7487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.07847e-06
+
+
+Time now is: 12.759  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  5.01888e-06
+
+
+Time now is: 12.7692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.9564e-06
+
+
+Time now is: 12.7795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.8911e-06
+
+
+Time now is: 12.7897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.823e-06
+
+
+Time now is: 12.8  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.75217e-06
+
+
+Time now is: 12.8103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.67865e-06
+
+
+Time now is: 12.8205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  2 ;   residual:  4.60251e-06
+
+
+Time now is: 12.8308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.94848e-06
+
+
+Time now is: 12.841  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.86301e-06
+
+
+Time now is: 12.8513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.7756e-06
+
+
+Time now is: 12.8615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.68619e-06
+
+
+Time now is: 12.8718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.59478e-06
+
+
+Time now is: 12.8821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.50138e-06
+
+
+Time now is: 12.8923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.40601e-06
+
+
+Time now is: 12.9026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.30872e-06
+
+
+Time now is: 12.9128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.20955e-06
+
+
+Time now is: 12.9231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.11018e-06
+
+
+Time now is: 12.9333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  9.01211e-06
+
+
+Time now is: 12.9436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.91225e-06
+
+
+Time now is: 12.9538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.81065e-06
+
+
+Time now is: 12.9641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.70734e-06
+
+
+Time now is: 12.9744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.60287e-06
+
+
+Time now is: 12.9846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.499e-06
+
+
+Time now is: 12.9949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.39348e-06
+
+
+Time now is: 13.0051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.28635e-06
+
+
+Time now is: 13.0154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.17766e-06
+
+
+Time now is: 13.0256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  8.06745e-06
+
+
+Time now is: 13.0359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.95575e-06
+
+
+Time now is: 13.0462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.84262e-06
+
+
+Time now is: 13.0564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.72808e-06
+
+
+Time now is: 13.0667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.61219e-06
+
+
+Time now is: 13.0769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.49498e-06
+
+
+Time now is: 13.0872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.37649e-06
+
+
+Time now is: 13.0974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.25677e-06
+
+
+Time now is: 13.1077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.13585e-06
+
+
+Time now is: 13.1179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.01378e-06
+
+
+Time now is: 13.1282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.89059e-06
+
+
+Time now is: 13.1385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.76632e-06
+
+
+Time now is: 13.1487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.64102e-06
+
+
+Time now is: 13.159  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.51472e-06
+
+
+Time now is: 13.1692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.38746e-06
+
+
+Time now is: 13.1795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.25928e-06
+
+
+Time now is: 13.1897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.1331e-06
+
+
+Time now is: 13.2  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.00686e-06
+
+
+Time now is: 13.2103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.87981e-06
+
+
+Time now is: 13.2205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.75198e-06
+
+
+Time now is: 13.2308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.62341e-06
+
+
+Time now is: 13.241  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.49415e-06
+
+
+Time now is: 13.2513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.36422e-06
+
+
+Time now is: 13.2615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.23378e-06
+
+
+Time now is: 13.2718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.10423e-06
+
+
+Time now is: 13.2821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.97407e-06
+
+
+Time now is: 13.2923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.84333e-06
+
+
+Time now is: 13.3026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.71207e-06
+
+
+Time now is: 13.3128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.6313e-06
+
+
+Time now is: 13.3231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.59474e-06
+
+
+Time now is: 13.3333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.55732e-06
+
+
+Time now is: 13.3436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.51901e-06
+
+
+Time now is: 13.3538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.47983e-06
+
+
+Time now is: 13.3641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.43977e-06
+
+
+Time now is: 13.3744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.39884e-06
+
+
+Time now is: 13.3846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.35702e-06
+
+
+Time now is: 13.3949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.31432e-06
+
+
+Time now is: 13.4051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.27075e-06
+
+
+Time now is: 13.4154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.22631e-06
+
+
+Time now is: 13.4256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.18101e-06
+
+
+Time now is: 13.4359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.13485e-06
+
+
+Time now is: 13.4462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.1332e-06
+
+
+Time now is: 13.4564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.1524e-06
+
+
+Time now is: 13.4667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.17086e-06
+
+
+Time now is: 13.4769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.23134e-06
+
+
+Time now is: 13.4872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.29829e-06
+
+
+Time now is: 13.4974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.37318e-06
+
+
+Time now is: 13.5077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.45183e-06
+
+
+Time now is: 13.5179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.5293e-06
+
+
+Time now is: 13.5282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.60559e-06
+
+
+Time now is: 13.5385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.68068e-06
+
+
+Time now is: 13.5487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.75454e-06
+
+
+Time now is: 13.559  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.82716e-06
+
+
+Time now is: 13.5692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.89853e-06
+
+
+Time now is: 13.5795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.96864e-06
+
+
+Time now is: 13.5897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.03746e-06
+
+
+Time now is: 13.6  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.10499e-06
+
+
+Time now is: 13.6103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.17122e-06
+
+
+Time now is: 13.6205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.23613e-06
+
+
+Time now is: 13.6308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.29971e-06
+
+
+Time now is: 13.641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.36196e-06
+
+
+Time now is: 13.6513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.42286e-06
+
+
+Time now is: 13.6615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.48241e-06
+
+
+Time now is: 13.6718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.54155e-06
+
+
+Time now is: 13.6821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.6014e-06
+
+
+Time now is: 13.6923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.6599e-06
+
+
+Time now is: 13.7026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.71705e-06
+
+
+Time now is: 13.7128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.77284e-06
+
+
+Time now is: 13.7231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.82727e-06
+
+
+Time now is: 13.7333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.88343e-06
+
+
+Time now is: 13.7436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.94246e-06
+
+
+Time now is: 13.7538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.00008e-06
+
+
+Time now is: 13.7641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.05627e-06
+
+
+Time now is: 13.7744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.11103e-06
+
+
+Time now is: 13.7846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.16436e-06
+
+
+Time now is: 13.7949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.21624e-06
+
+
+Time now is: 13.8051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.26892e-06
+
+
+Time now is: 13.8154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.3209e-06
+
+
+Time now is: 13.8256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.37144e-06
+
+
+Time now is: 13.8359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.42056e-06
+
+
+Time now is: 13.8462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.46823e-06
+
+
+Time now is: 13.8564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.51446e-06
+
+
+Time now is: 13.8667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.55923e-06
+
+
+Time now is: 13.8769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.60253e-06
+
+
+Time now is: 13.8872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.64438e-06
+
+
+Time now is: 13.8974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.68474e-06
+
+
+Time now is: 13.9077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.72363e-06
+
+
+Time now is: 13.9179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.76102e-06
+
+
+Time now is: 13.9282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.79693e-06
+
+
+Time now is: 13.9385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.83133e-06
+
+
+Time now is: 13.9487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.86422e-06
+
+
+Time now is: 13.959  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.8986e-06
+
+
+Time now is: 13.9692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.93636e-06
+
+
+Time now is: 13.9795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.97259e-06
+
+
+Time now is: 13.9897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.00727e-06
+
+
+Time now is: 14  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.0404e-06
+
+
+Time now is: 14.0103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.07198e-06
+
+
+Time now is: 14.0205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.10199e-06
+
+
+Time now is: 14.0308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.13043e-06
+
+
+Time now is: 14.041  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.15729e-06
+
+
+Time now is: 14.0513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.18257e-06
+
+
+Time now is: 14.0615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.20626e-06
+
+
+Time now is: 14.0718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.22836e-06
+
+
+Time now is: 14.0821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.24885e-06
+
+
+Time now is: 14.0923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.26775e-06
+
+
+Time now is: 14.1026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.28503e-06
+
+
+Time now is: 14.1128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.3007e-06
+
+
+Time now is: 14.1231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.31528e-06
+
+
+Time now is: 14.1333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.33116e-06
+
+
+Time now is: 14.1436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.34542e-06
+
+
+Time now is: 14.1538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.35806e-06
+
+
+Time now is: 14.1641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.36907e-06
+
+
+Time now is: 14.1744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.37846e-06
+
+
+Time now is: 14.1846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.38622e-06
+
+
+Time now is: 14.1949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.39235e-06
+
+
+Time now is: 14.2051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.39817e-06
+
+
+Time now is: 14.2154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.40337e-06
+
+
+Time now is: 14.2256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.40693e-06
+
+
+Time now is: 14.2359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.40884e-06
+
+
+Time now is: 14.2462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.40912e-06
+
+
+Time now is: 14.2564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.40834e-06
+
+
+Time now is: 14.2667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.40842e-06
+
+
+Time now is: 14.2769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.40686e-06
+
+
+Time now is: 14.2872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.40367e-06
+
+
+Time now is: 14.2974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.39885e-06
+
+
+Time now is: 14.3077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.3924e-06
+
+
+Time now is: 14.3179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.38433e-06
+
+
+Time now is: 14.3282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.37464e-06
+
+
+Time now is: 14.3385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.36333e-06
+
+
+Time now is: 14.3487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.35041e-06
+
+
+Time now is: 14.359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.33589e-06
+
+
+Time now is: 14.3692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.31978e-06
+
+
+Time now is: 14.3795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.30207e-06
+
+
+Time now is: 14.3897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.28278e-06
+
+
+Time now is: 14.4  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.26192e-06
+
+
+Time now is: 14.4103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.2422e-06
+
+
+Time now is: 14.4205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.2215e-06
+
+
+Time now is: 14.4308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.19925e-06
+
+
+Time now is: 14.441  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.17544e-06
+
+
+Time now is: 14.4513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.1501e-06
+
+
+Time now is: 14.4615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.12322e-06
+
+
+Time now is: 14.4718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.09483e-06
+
+
+Time now is: 14.4821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.06493e-06
+
+
+Time now is: 14.4923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.03353e-06
+
+
+Time now is: 14.5026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  7.00066e-06
+
+
+Time now is: 14.5128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.96673e-06
+
+
+Time now is: 14.5231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.93449e-06
+
+
+Time now is: 14.5333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.9008e-06
+
+
+Time now is: 14.5436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.86566e-06
+
+
+Time now is: 14.5538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.8291e-06
+
+
+Time now is: 14.5641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.79112e-06
+
+
+Time now is: 14.5744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.75175e-06
+
+
+Time now is: 14.5846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.711e-06
+
+
+Time now is: 14.5949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.67143e-06
+
+
+Time now is: 14.6051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.63187e-06
+
+
+Time now is: 14.6154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.59095e-06
+
+
+Time now is: 14.6256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.55009e-06
+
+
+Time now is: 14.6359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.51581e-06
+
+
+Time now is: 14.6462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.48016e-06
+
+
+Time now is: 14.6564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.44689e-06
+
+
+Time now is: 14.6667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.41376e-06
+
+
+Time now is: 14.6769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.37928e-06
+
+
+Time now is: 14.6872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.34347e-06
+
+
+Time now is: 14.6974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.31146e-06
+
+
+Time now is: 14.7077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.28114e-06
+
+
+Time now is: 14.7179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.25144e-06
+
+
+Time now is: 14.7282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.2204e-06
+
+
+Time now is: 14.7385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.18802e-06
+
+
+Time now is: 14.7487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.15449e-06
+
+
+Time now is: 14.759  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.12413e-06
+
+
+Time now is: 14.7692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.09243e-06
+
+
+Time now is: 14.7795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.0594e-06
+
+
+Time now is: 14.7897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  6.02504e-06
+
+
+Time now is: 14.8  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.98936e-06
+
+
+Time now is: 14.8103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.95238e-06
+
+
+Time now is: 14.8205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.9168e-06
+
+
+Time now is: 14.8308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.88132e-06
+
+
+Time now is: 14.841  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.84452e-06
+
+
+Time now is: 14.8513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.8064e-06
+
+
+Time now is: 14.8615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.76698e-06
+
+
+Time now is: 14.8718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.72626e-06
+
+
+Time now is: 14.8821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.68425e-06
+
+
+Time now is: 14.8923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.64097e-06
+
+
+Time now is: 14.9026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.59642e-06
+
+
+Time now is: 14.9128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.55063e-06
+
+
+Time now is: 14.9231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.50359e-06
+
+
+Time now is: 14.9333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.45559e-06
+
+
+Time now is: 14.9436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.40942e-06
+
+
+Time now is: 14.9538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.36202e-06
+
+
+Time now is: 14.9641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.31338e-06
+
+
+Time now is: 14.9744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.26352e-06
+
+
+Time now is: 14.9846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.21246e-06
+
+
+Time now is: 14.9949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.16022e-06
+
+
+Time now is: 15.0051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.10681e-06
+
+
+Time now is: 15.0154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.05225e-06
+
+
+Time now is: 15.0256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.99655e-06
+
+
+Time now is: 15.0359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.9424e-06
+
+
+Time now is: 15.0462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.89014e-06
+
+
+Time now is: 15.0564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.83682e-06
+
+
+Time now is: 15.0667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.78245e-06
+
+
+Time now is: 15.0769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.72704e-06
+
+
+Time now is: 15.0872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.67061e-06
+
+
+Time now is: 15.0974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.61319e-06
+
+
+Time now is: 15.1077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.55479e-06
+
+
+Time now is: 15.1179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.49543e-06
+
+
+Time now is: 15.1282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.43513e-06
+
+
+Time now is: 15.1385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.37392e-06
+
+
+Time now is: 15.1487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.3118e-06
+
+
+Time now is: 15.159  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.2488e-06
+
+
+Time now is: 15.1692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.18495e-06
+
+
+Time now is: 15.1795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.12025e-06
+
+
+Time now is: 15.1897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.05475e-06
+
+
+Time now is: 15.2  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.98845e-06
+
+
+Time now is: 15.2103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.92138e-06
+
+
+Time now is: 15.2205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.85356e-06
+
+
+Time now is: 15.2308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.78593e-06
+
+
+Time now is: 15.241  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.71925e-06
+
+
+Time now is: 15.2513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.65187e-06
+
+
+Time now is: 15.2615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.5838e-06
+
+
+Time now is: 15.2718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.51506e-06
+
+
+Time now is: 15.2821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.44569e-06
+
+
+Time now is: 15.2923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.3757e-06
+
+
+Time now is: 15.3026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.34965e-06
+
+
+Time now is: 15.3128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.34937e-06
+
+
+Time now is: 15.3231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.34839e-06
+
+
+Time now is: 15.3333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.34671e-06
+
+
+Time now is: 15.3436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.34431e-06
+
+
+Time now is: 15.3538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.34121e-06
+
+
+Time now is: 15.3641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.33741e-06
+
+
+Time now is: 15.3744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.3329e-06
+
+
+Time now is: 15.3846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.32769e-06
+
+
+Time now is: 15.3949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.32178e-06
+
+
+Time now is: 15.4051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.31517e-06
+
+
+Time now is: 15.4154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.30786e-06
+
+
+Time now is: 15.4256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.29987e-06
+
+
+Time now is: 15.4359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.29118e-06
+
+
+Time now is: 15.4462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.28181e-06
+
+
+Time now is: 15.4564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.27176e-06
+
+
+Time now is: 15.4667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.26103e-06
+
+
+Time now is: 15.4769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.25003e-06
+
+
+Time now is: 15.4872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.24715e-06
+
+
+Time now is: 15.4974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.24361e-06
+
+
+Time now is: 15.5077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.23942e-06
+
+
+Time now is: 15.5179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.23743e-06
+
+
+Time now is: 15.5282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.23524e-06
+
+
+Time now is: 15.5385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.23239e-06
+
+
+Time now is: 15.5487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.2289e-06
+
+
+Time now is: 15.559  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.22476e-06
+
+
+Time now is: 15.5692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.21997e-06
+
+
+Time now is: 15.5795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.21454e-06
+
+
+Time now is: 15.5897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.20847e-06
+
+
+Time now is: 15.6  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.20176e-06
+
+
+Time now is: 15.6103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.19442e-06
+
+
+Time now is: 15.6205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.18645e-06
+
+
+Time now is: 15.6308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.17786e-06
+
+
+Time now is: 15.641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.16864e-06
+
+
+Time now is: 15.6513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.15881e-06
+
+
+Time now is: 15.6615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.14837e-06
+
+
+Time now is: 15.6718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.13731e-06
+
+
+Time now is: 15.6821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.12565e-06
+
+
+Time now is: 15.6923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.11339e-06
+
+
+Time now is: 15.7026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.10054e-06
+
+
+Time now is: 15.7128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.13148e-06
+
+
+Time now is: 15.7231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.19746e-06
+
+
+Time now is: 15.7333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.26248e-06
+
+
+Time now is: 15.7436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.32651e-06
+
+
+Time now is: 15.7538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.38956e-06
+
+
+Time now is: 15.7641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.4516e-06
+
+
+Time now is: 15.7744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.51263e-06
+
+
+Time now is: 15.7846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.57263e-06
+
+
+Time now is: 15.7949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.63159e-06
+
+
+Time now is: 15.8051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.6895e-06
+
+
+Time now is: 15.8154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.74635e-06
+
+
+Time now is: 15.8256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.80214e-06
+
+
+Time now is: 15.8359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.85684e-06
+
+
+Time now is: 15.8462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.91057e-06
+
+
+Time now is: 15.8564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.96341e-06
+
+
+Time now is: 15.8667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.01513e-06
+
+
+Time now is: 15.8769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.06573e-06
+
+
+Time now is: 15.8872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.11519e-06
+
+
+Time now is: 15.8974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.16351e-06
+
+
+Time now is: 15.9077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.21463e-06
+
+
+Time now is: 15.9179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.27e-06
+
+
+Time now is: 15.9282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.32418e-06
+
+
+Time now is: 15.9385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.37716e-06
+
+
+Time now is: 15.9487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.42895e-06
+
+
+Time now is: 15.959  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.47952e-06
+
+
+Time now is: 15.9692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.52887e-06
+
+
+Time now is: 15.9795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.577e-06
+
+
+Time now is: 15.9897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.62389e-06
+
+
+Time now is: 16  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.66953e-06
+
+
+Time now is: 16.0103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.71392e-06
+
+
+Time now is: 16.0205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.75706e-06
+
+
+Time now is: 16.0308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.79893e-06
+
+
+Time now is: 16.041  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.83952e-06
+
+
+Time now is: 16.0513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.87884e-06
+
+
+Time now is: 16.0615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.91688e-06
+
+
+Time now is: 16.0718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.95363e-06
+
+
+Time now is: 16.0821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.98908e-06
+
+
+Time now is: 16.0923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.02324e-06
+
+
+Time now is: 16.1026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.05609e-06
+
+
+Time now is: 16.1128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.08764e-06
+
+
+Time now is: 16.1231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.12172e-06
+
+
+Time now is: 16.1333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.15732e-06
+
+
+Time now is: 16.1436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.1916e-06
+
+
+Time now is: 16.1538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.22454e-06
+
+
+Time now is: 16.1641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.25616e-06
+
+
+Time now is: 16.1744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.28643e-06
+
+
+Time now is: 16.1846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.31536e-06
+
+
+Time now is: 16.1949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.34315e-06
+
+
+Time now is: 16.2051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.36982e-06
+
+
+Time now is: 16.2154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.39514e-06
+
+
+Time now is: 16.2256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.41913e-06
+
+
+Time now is: 16.2359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.44177e-06
+
+
+Time now is: 16.2462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.46306e-06
+
+
+Time now is: 16.2564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.48301e-06
+
+
+Time now is: 16.2667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.50161e-06
+
+
+Time now is: 16.2769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.51886e-06
+
+
+Time now is: 16.2872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.53476e-06
+
+
+Time now is: 16.2974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.54932e-06
+
+
+Time now is: 16.3077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.56253e-06
+
+
+Time now is: 16.3179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.57439e-06
+
+
+Time now is: 16.3282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.5849e-06
+
+
+Time now is: 16.3385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.59428e-06
+
+
+Time now is: 16.3487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.60712e-06
+
+
+Time now is: 16.359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.61862e-06
+
+
+Time now is: 16.3692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.62877e-06
+
+
+Time now is: 16.3795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.63757e-06
+
+
+Time now is: 16.3897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.64504e-06
+
+
+Time now is: 16.4  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.65117e-06
+
+
+Time now is: 16.4103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.65596e-06
+
+
+Time now is: 16.4205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.65942e-06
+
+
+Time now is: 16.4308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.66155e-06
+
+
+Time now is: 16.441  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.66236e-06
+
+
+Time now is: 16.4513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.66184e-06
+
+
+Time now is: 16.4615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.66001e-06
+
+
+Time now is: 16.4718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.65686e-06
+
+
+Time now is: 16.4821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.65241e-06
+
+
+Time now is: 16.4923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.64665e-06
+
+
+Time now is: 16.5026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.6396e-06
+
+
+Time now is: 16.5128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.63125e-06
+
+
+Time now is: 16.5231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.62163e-06
+
+
+Time now is: 16.5333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.61072e-06
+
+
+Time now is: 16.5436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.59854e-06
+
+
+Time now is: 16.5538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.5851e-06
+
+
+Time now is: 16.5641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.57081e-06
+
+
+Time now is: 16.5744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.55862e-06
+
+
+Time now is: 16.5846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.54519e-06
+
+
+Time now is: 16.5949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.53051e-06
+
+
+Time now is: 16.6051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.51461e-06
+
+
+Time now is: 16.6154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.49749e-06
+
+
+Time now is: 16.6256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.47915e-06
+
+
+Time now is: 16.6359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.45961e-06
+
+
+Time now is: 16.6462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.43887e-06
+
+
+Time now is: 16.6564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.41695e-06
+
+
+Time now is: 16.6667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.39385e-06
+
+
+Time now is: 16.6769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.36972e-06
+
+
+Time now is: 16.6872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.34512e-06
+
+
+Time now is: 16.6974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.31937e-06
+
+
+Time now is: 16.7077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.29248e-06
+
+
+Time now is: 16.7179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.26445e-06
+
+
+Time now is: 16.7282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.23531e-06
+
+
+Time now is: 16.7385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.20505e-06
+
+
+Time now is: 16.7487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.1737e-06
+
+
+Time now is: 16.759  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.14126e-06
+
+
+Time now is: 16.7692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.10774e-06
+
+
+Time now is: 16.7795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.07315e-06
+
+
+Time now is: 16.7897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.03752e-06
+
+
+Time now is: 16.8  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  5.00255e-06
+
+
+Time now is: 16.8103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.96783e-06
+
+
+Time now is: 16.8205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.93209e-06
+
+
+Time now is: 16.8308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.89534e-06
+
+
+Time now is: 16.841  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.85759e-06
+
+
+Time now is: 16.8513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.81887e-06
+
+
+Time now is: 16.8615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.77918e-06
+
+
+Time now is: 16.8718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.73853e-06
+
+
+Time now is: 16.8821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.69694e-06
+
+
+Time now is: 16.8923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.65442e-06
+
+
+Time now is: 16.9026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.61099e-06
+
+
+Time now is: 16.9128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.56665e-06
+
+
+Time now is: 16.9231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.52143e-06
+
+
+Time now is: 16.9333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.47534e-06
+
+
+Time now is: 16.9436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.42839e-06
+
+
+Time now is: 16.9538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.38059e-06
+
+
+Time now is: 16.9641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.33197e-06
+
+
+Time now is: 16.9744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.28253e-06
+
+
+Time now is: 16.9846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.2323e-06
+
+
+Time now is: 16.9949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.18128e-06
+
+
+Time now is: 17.0051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.12949e-06
+
+
+Time now is: 17.0154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.07695e-06
+
+
+Time now is: 17.0256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  4.02367e-06
+
+
+Time now is: 17.0359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.97163e-06
+
+
+Time now is: 17.0462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.9193e-06
+
+
+Time now is: 17.0564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.86629e-06
+
+
+Time now is: 17.0667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.81317e-06
+
+
+Time now is: 17.0769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.75961e-06
+
+
+Time now is: 17.0872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.70541e-06
+
+
+Time now is: 17.0974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.65056e-06
+
+
+Time now is: 17.1077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.59508e-06
+
+
+Time now is: 17.1179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.539e-06
+
+
+Time now is: 17.1282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.48232e-06
+
+
+Time now is: 17.1385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.42507e-06
+
+
+Time now is: 17.1487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.36726e-06
+
+
+Time now is: 17.159  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.30891e-06
+
+
+Time now is: 17.1692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.25003e-06
+
+
+Time now is: 17.1795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.19064e-06
+
+
+Time now is: 17.1897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.13076e-06
+
+
+Time now is: 17.2  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.0704e-06
+
+
+Time now is: 17.2103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.00958e-06
+
+
+Time now is: 17.2205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.94832e-06
+
+
+Time now is: 17.2308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.88664e-06
+
+
+Time now is: 17.241  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.82454e-06
+
+
+Time now is: 17.2513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.76206e-06
+
+
+Time now is: 17.2615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.6992e-06
+
+
+Time now is: 17.2718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.63599e-06
+
+
+Time now is: 17.2821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.57384e-06
+
+
+Time now is: 17.2923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.51195e-06
+
+
+Time now is: 17.3026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.44975e-06
+
+
+Time now is: 17.3128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.41477e-06
+
+
+Time now is: 17.3231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.39345e-06
+
+
+Time now is: 17.3333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.37166e-06
+
+
+Time now is: 17.3436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.3494e-06
+
+
+Time now is: 17.3538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.32668e-06
+
+
+Time now is: 17.3641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.3035e-06
+
+
+Time now is: 17.3744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.27989e-06
+
+
+Time now is: 17.3846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.25583e-06
+
+
+Time now is: 17.3949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.23135e-06
+
+
+Time now is: 17.4051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.20644e-06
+
+
+Time now is: 17.4154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.18112e-06
+
+
+Time now is: 17.4256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.15539e-06
+
+
+Time now is: 17.4359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.12926e-06
+
+
+Time now is: 17.4462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.10274e-06
+
+
+Time now is: 17.4564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.07584e-06
+
+
+Time now is: 17.4667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.04856e-06
+
+
+Time now is: 17.4769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.02092e-06
+
+
+Time now is: 17.4872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.99291e-06
+
+
+Time now is: 17.4974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.96895e-06
+
+
+Time now is: 17.5077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.98361e-06
+
+
+Time now is: 17.5179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.99784e-06
+
+
+Time now is: 17.5282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.01165e-06
+
+
+Time now is: 17.5385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.02504e-06
+
+
+Time now is: 17.5487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.038e-06
+
+
+Time now is: 17.559  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.05053e-06
+
+
+Time now is: 17.5692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.06264e-06
+
+
+Time now is: 17.5795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.0805e-06
+
+
+Time now is: 17.5897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.11194e-06
+
+
+Time now is: 17.6  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.1428e-06
+
+
+Time now is: 17.6103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.17305e-06
+
+
+Time now is: 17.6205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.20271e-06
+
+
+Time now is: 17.6308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.23477e-06
+
+
+Time now is: 17.641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.26985e-06
+
+
+Time now is: 17.6513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.30429e-06
+
+
+Time now is: 17.6615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.33811e-06
+
+
+Time now is: 17.6718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.37127e-06
+
+
+Time now is: 17.6821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.40379e-06
+
+
+Time now is: 17.6923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.43565e-06
+
+
+Time now is: 17.7026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.46685e-06
+
+
+Time now is: 17.7128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.49738e-06
+
+
+Time now is: 17.7231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.52724e-06
+
+
+Time now is: 17.7333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.55641e-06
+
+
+Time now is: 17.7436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.5849e-06
+
+
+Time now is: 17.7538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.6127e-06
+
+
+Time now is: 17.7641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.64177e-06
+
+
+Time now is: 17.7744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.67041e-06
+
+
+Time now is: 17.7846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.69836e-06
+
+
+Time now is: 17.7949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.72558e-06
+
+
+Time now is: 17.8051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.7521e-06
+
+
+Time now is: 17.8154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.77789e-06
+
+
+Time now is: 17.8256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.80296e-06
+
+
+Time now is: 17.8359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.82729e-06
+
+
+Time now is: 17.8462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.8509e-06
+
+
+Time now is: 17.8564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.87377e-06
+
+
+Time now is: 17.8667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.89589e-06
+
+
+Time now is: 17.8769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.91728e-06
+
+
+Time now is: 17.8872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.93791e-06
+
+
+Time now is: 17.8974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.95935e-06
+
+
+Time now is: 17.9077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.98336e-06
+
+
+Time now is: 17.9179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.00661e-06
+
+
+Time now is: 17.9282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.02909e-06
+
+
+Time now is: 17.9385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.05081e-06
+
+
+Time now is: 17.9487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.07176e-06
+
+
+Time now is: 17.959  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.09193e-06
+
+
+Time now is: 17.9692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.11133e-06
+
+
+Time now is: 17.9795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.12995e-06
+
+
+Time now is: 17.9897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.1478e-06
+
+
+Time now is: 18  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.16486e-06
+
+
+Time now is: 18.0103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.18299e-06
+
+
+Time now is: 18.0205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.20046e-06
+
+
+Time now is: 18.0308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.21715e-06
+
+
+Time now is: 18.041  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.23305e-06
+
+
+Time now is: 18.0513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.24815e-06
+
+
+Time now is: 18.0615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.26246e-06
+
+
+Time now is: 18.0718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.27598e-06
+
+
+Time now is: 18.0821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.2887e-06
+
+
+Time now is: 18.0923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.30063e-06
+
+
+Time now is: 18.1026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.31175e-06
+
+
+Time now is: 18.1128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.32208e-06
+
+
+Time now is: 18.1231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.33162e-06
+
+
+Time now is: 18.1333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.34035e-06
+
+
+Time now is: 18.1436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.34914e-06
+
+
+Time now is: 18.1538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.35837e-06
+
+
+Time now is: 18.1641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.3668e-06
+
+
+Time now is: 18.1744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.37442e-06
+
+
+Time now is: 18.1846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.38125e-06
+
+
+Time now is: 18.1949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.38727e-06
+
+
+Time now is: 18.2051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.39376e-06
+
+
+Time now is: 18.2154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.3997e-06
+
+
+Time now is: 18.2256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.40484e-06
+
+
+Time now is: 18.2359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.4092e-06
+
+
+Time now is: 18.2462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.41276e-06
+
+
+Time now is: 18.2564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.41554e-06
+
+
+Time now is: 18.2667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.41752e-06
+
+
+Time now is: 18.2769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.4205e-06
+
+
+Time now is: 18.2872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.42272e-06
+
+
+Time now is: 18.2974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.42415e-06
+
+
+Time now is: 18.3077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.42479e-06
+
+
+Time now is: 18.3179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.42465e-06
+
+
+Time now is: 18.3282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.42373e-06
+
+
+Time now is: 18.3385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.42203e-06
+
+
+Time now is: 18.3487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.41956e-06
+
+
+Time now is: 18.359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.41632e-06
+
+
+Time now is: 18.3692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.4123e-06
+
+
+Time now is: 18.3795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.40764e-06
+
+
+Time now is: 18.3897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.40403e-06
+
+
+Time now is: 18.4  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.39965e-06
+
+
+Time now is: 18.4103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.39451e-06
+
+
+Time now is: 18.4205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.38861e-06
+
+
+Time now is: 18.4308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.38196e-06
+
+
+Time now is: 18.441  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.37762e-06
+
+
+Time now is: 18.4513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.37798e-06
+
+
+Time now is: 18.4615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.37742e-06
+
+
+Time now is: 18.4718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.37594e-06
+
+
+Time now is: 18.4821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.37353e-06
+
+
+Time now is: 18.4923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.37021e-06
+
+
+Time now is: 18.5026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.36598e-06
+
+
+Time now is: 18.5128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.36085e-06
+
+
+Time now is: 18.5231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.35481e-06
+
+
+Time now is: 18.5333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.34788e-06
+
+
+Time now is: 18.5436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.34005e-06
+
+
+Time now is: 18.5538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.33134e-06
+
+
+Time now is: 18.5641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.32511e-06
+
+
+Time now is: 18.5744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.31819e-06
+
+
+Time now is: 18.5846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.31039e-06
+
+
+Time now is: 18.5949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.30171e-06
+
+
+Time now is: 18.6051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.29214e-06
+
+
+Time now is: 18.6154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.28171e-06
+
+
+Time now is: 18.6256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.27041e-06
+
+
+Time now is: 18.6359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.25825e-06
+
+
+Time now is: 18.6462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.24523e-06
+
+
+Time now is: 18.6564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.23137e-06
+
+
+Time now is: 18.6667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.21667e-06
+
+
+Time now is: 18.6769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.20114e-06
+
+
+Time now is: 18.6872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.18479e-06
+
+
+Time now is: 18.6974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.16761e-06
+
+
+Time now is: 18.7077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.14963e-06
+
+
+Time now is: 18.7179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.13085e-06
+
+
+Time now is: 18.7282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.11127e-06
+
+
+Time now is: 18.7385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.0909e-06
+
+
+Time now is: 18.7487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.06979e-06
+
+
+Time now is: 18.759  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.0555e-06
+
+
+Time now is: 18.7692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.04052e-06
+
+
+Time now is: 18.7795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.02622e-06
+
+
+Time now is: 18.7897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  3.01165e-06
+
+
+Time now is: 18.8  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.99639e-06
+
+
+Time now is: 18.8103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.98045e-06
+
+
+Time now is: 18.8205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.96383e-06
+
+
+Time now is: 18.8308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.94654e-06
+
+
+Time now is: 18.841  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.92859e-06
+
+
+Time now is: 18.8513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.91049e-06
+
+
+Time now is: 18.8615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.89382e-06
+
+
+Time now is: 18.8718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.8765e-06
+
+
+Time now is: 18.8821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.85854e-06
+
+
+Time now is: 18.8923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.83995e-06
+
+
+Time now is: 18.9026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.82073e-06
+
+
+Time now is: 18.9128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.80089e-06
+
+
+Time now is: 18.9231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.78044e-06
+
+
+Time now is: 18.9333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.76039e-06
+
+
+Time now is: 18.9436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.74023e-06
+
+
+Time now is: 18.9538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.71946e-06
+
+
+Time now is: 18.9641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.6981e-06
+
+
+Time now is: 18.9744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.67615e-06
+
+
+Time now is: 18.9846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.65361e-06
+
+
+Time now is: 18.9949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.6305e-06
+
+
+Time now is: 19.0051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.60683e-06
+
+
+Time now is: 19.0154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.58259e-06
+
+
+Time now is: 19.0256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.55781e-06
+
+
+Time now is: 19.0359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.53248e-06
+
+
+Time now is: 19.0462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.50662e-06
+
+
+Time now is: 19.0564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.48023e-06
+
+
+Time now is: 19.0667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.45333e-06
+
+
+Time now is: 19.0769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.42591e-06
+
+
+Time now is: 19.0872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.398e-06
+
+
+Time now is: 19.0974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.3696e-06
+
+
+Time now is: 19.1077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.34072e-06
+
+
+Time now is: 19.1179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.31137e-06
+
+
+Time now is: 19.1282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.28156e-06
+
+
+Time now is: 19.1385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.25129e-06
+
+
+Time now is: 19.1487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.22058e-06
+
+
+Time now is: 19.159  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.19044e-06
+
+
+Time now is: 19.1692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.16012e-06
+
+
+Time now is: 19.1795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.12937e-06
+
+
+Time now is: 19.1897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.09822e-06
+
+
+Time now is: 19.2  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.06666e-06
+
+
+Time now is: 19.2103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.03472e-06
+
+
+Time now is: 19.2205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.00239e-06
+
+
+Time now is: 19.2308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.96968e-06
+
+
+Time now is: 19.241  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.93662e-06
+
+
+Time now is: 19.2513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.9035e-06
+
+
+Time now is: 19.2615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.87279e-06
+
+
+Time now is: 19.2718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.84174e-06
+
+
+Time now is: 19.2821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.81037e-06
+
+
+Time now is: 19.2923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.77867e-06
+
+
+Time now is: 19.3026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.74667e-06
+
+
+Time now is: 19.3128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.71437e-06
+
+
+Time now is: 19.3231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.68178e-06
+
+
+Time now is: 19.3333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.64891e-06
+
+
+Time now is: 19.3436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.61577e-06
+
+
+Time now is: 19.3538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.58236e-06
+
+
+Time now is: 19.3641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.55293e-06
+
+
+Time now is: 19.3744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.55549e-06
+
+
+Time now is: 19.3846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.55768e-06
+
+
+Time now is: 19.3949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.55953e-06
+
+
+Time now is: 19.4051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.56102e-06
+
+
+Time now is: 19.4154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.56216e-06
+
+
+Time now is: 19.4256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.56295e-06
+
+
+Time now is: 19.4359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.56338e-06
+
+
+Time now is: 19.4462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.56347e-06
+
+
+Time now is: 19.4564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.5632e-06
+
+
+Time now is: 19.4667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.56258e-06
+
+
+Time now is: 19.4769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.56162e-06
+
+
+Time now is: 19.4872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.56031e-06
+
+
+Time now is: 19.4974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.55866e-06
+
+
+Time now is: 19.5077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.55666e-06
+
+
+Time now is: 19.5179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.55432e-06
+
+
+Time now is: 19.5282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.55164e-06
+
+
+Time now is: 19.5385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.54862e-06
+
+
+Time now is: 19.5487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.54526e-06
+
+
+Time now is: 19.559  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.54157e-06
+
+
+Time now is: 19.5692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.53754e-06
+
+
+Time now is: 19.5795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.53319e-06
+
+
+Time now is: 19.5897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.52851e-06
+
+
+Time now is: 19.6  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.5235e-06
+
+
+Time now is: 19.6103  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.52236e-06
+
+
+Time now is: 19.6205  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.52195e-06
+
+
+Time now is: 19.6308  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.5212e-06
+
+
+Time now is: 19.641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.52143e-06
+
+
+Time now is: 19.6513  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.52194e-06
+
+
+Time now is: 19.6615  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.52212e-06
+
+
+Time now is: 19.6718  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.52197e-06
+
+
+Time now is: 19.6821  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.5215e-06
+
+
+Time now is: 19.6923  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.52071e-06
+
+
+Time now is: 19.7026  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.51959e-06
+
+
+Time now is: 19.7128  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.51815e-06
+
+
+Time now is: 19.7231  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.51639e-06
+
+
+Time now is: 19.7333  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.51431e-06
+
+
+Time now is: 19.7436  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.51191e-06
+
+
+Time now is: 19.7538  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.5092e-06
+
+
+Time now is: 19.7641  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.50617e-06
+
+
+Time now is: 19.7744  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.50283e-06
+
+
+Time now is: 19.7846  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.50188e-06
+
+
+Time now is: 19.7949  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.53361e-06
+
+
+Time now is: 19.8051  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.56486e-06
+
+
+Time now is: 19.8154  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.59563e-06
+
+
+Time now is: 19.8256  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.62591e-06
+
+
+Time now is: 19.8359  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.65569e-06
+
+
+Time now is: 19.8462  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.68497e-06
+
+
+Time now is: 19.8564  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.71374e-06
+
+
+Time now is: 19.8667  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.742e-06
+
+
+Time now is: 19.8769  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.76973e-06
+
+
+Time now is: 19.8872  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.79695e-06
+
+
+Time now is: 19.8974  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.82364e-06
+
+
+Time now is: 19.9077  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.84979e-06
+
+
+Time now is: 19.9179  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.87541e-06
+
+
+Time now is: 19.9282  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.90048e-06
+
+
+Time now is: 19.9385  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.92501e-06
+
+
+Time now is: 19.9487  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.94898e-06
+
+
+Time now is: 19.959  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.9724e-06
+
+
+Time now is: 19.9692  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  1.99526e-06
+
+
+Time now is: 19.9795  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.01755e-06
+
+
+Time now is: 19.9897  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.03951e-06
+
+
+Time now is: 20  ,and dt is: 0.0102564
+
+SIMPLE loop num:  1 ;   residual:  2.06537e-06
+
+
+Time now is: 20  ,and dt is: 6.75016e-14
+
+SIMPLE loop num:  1 ;   residual:  1.87445e-06
+
+
+Time now is: 20.0103  ,and dt is: 0.0102564
+
+---寄！---
+SIMPLE loop num:  1 ;   residual:  37677.2
+CPU time used: 3190.68 ms
+END !------------

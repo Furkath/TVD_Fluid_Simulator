@@ -1,0 +1,5 @@
+cd Sparsezzw
+wmake > compile.log 2>&1
+cd ..
+#wclean
+wmake >> compile.log 2>&1

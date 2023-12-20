@@ -1,0 +1,4 @@
+rm u.txt v.txt p.txt nohup.out
+touch nohup.out
+nohup cavityzzw &
+tail -f nohup.out

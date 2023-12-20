@@ -1,0 +1,148 @@
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  6
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 6-931dfab2f5d6
+Exec   : blockMesh
+Date   : Dec 06 2022
+Time   : 17:17:40
+Host   : "dezhizhou"
+PID    : 3197705
+I/O    : uncollated
+Case   : /home/zhiwei_zhao/CFD_PROJECT2/validation/prepare_ref
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Deleting polyMesh directory
+    "/home/zhiwei_zhao/CFD_PROJECT2/validation/prepare_ref/constant/polyMesh"
+Creating block mesh from
+    "/home/zhiwei_zhao/CFD_PROJECT2/validation/prepare_ref/system/blockMeshDict"
+Creating block edges
+No non-planar block faces defined
+Creating topology blocks
+Creating topology patches
+
+Creating block mesh topology
+
+Check topology
+
+	Basic statistics
+		Number of internal faces : 0
+		Number of boundary faces : 6
+		Number of defined boundary faces : 6
+		Number of undefined boundary faces : 0
+	Checking patch -> block consistency
+
+Creating block offsets
+Creating merge list .
+
+Creating polyMesh from blockMesh
+Creating patches
+Creating cells
+Creating points with scale 1
+    Block 0 cell size :
+        i : 0.0126582 .. 0.0126582
+        j : 0.0126582 .. 0.0126582
+        k : 1 .. 1
+
+
+Writing polyMesh
+----------------
+Mesh Information
+----------------
+  boundingBox: (0 0 0) (1 1 1)
+  nPoints: 12800
+  nCells: 6241
+  nFaces: 25122
+  nInternalFaces: 12324
+----------------
+Patches
+----------------
+  patch 0 (start: 12324 size: 79) name: movingWall
+  patch 1 (start: 12403 size: 237) name: fixedWalls
+  patch 2 (start: 12640 size: 12482) name: frontAndBack
+
+End
+
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  6
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 6-931dfab2f5d6
+Exec   : mapFields ./cavity -consistent -sourceTime 25
+Date   : Dec 06 2022
+Time   : 17:17:40
+Host   : "dezhizhou"
+PID    : 3197706
+I/O    : uncollated
+Case   : /home/zhiwei_zhao/CFD_PROJECT2/validation/prepare_ref
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Source: "/home/zhiwei_zhao/CFD_PROJECT2/validation/prepare_ref" "cavity"
+Target: "/home/zhiwei_zhao/CFD_PROJECT2/validation" "prepare_ref"
+
+Create databases as time
+
+Source time: 25
+Target time: 0
+Create meshes
+
+Source mesh size: 250000	Target mesh size: 6241
+
+
+Consistently creating and mapping fields for time 25
+
+    interpolating p
+    interpolating U
+
+End
+
+rm: cannot remove '*_ref.txt': No such file or directory
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  6
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 6-931dfab2f5d6
+Exec   : OFtoEigen
+Date   : Dec 06 2022
+Time   : 17:17:43
+Host   : "dezhizhou"
+PID    : 3197708
+I/O    : uncollated
+Case   : /home/zhiwei_zhao/CFD_PROJECT2/validation/prepare_ref
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0
+
+Reading transportProperties
+
+Reading field p
+
+Reading field U
+
+Reading/calculating face flux field phi
+

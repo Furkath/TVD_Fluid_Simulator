@@ -1,0 +1,6 @@
+double alphaP=0.095;//0.095;//0.1;//0.1;//0.01
+double alphaS=0.9;//0.8;//0.7;//0.2;//0.02
+double alphaU=0.15;//0.95;//0.8;//0.3;//0.03
+double alphaV=0.15;//0.9;//0.8;//0.3;//0.03
+//double alphas=0.625*alphaS;
+

@@ -1,0 +1,53 @@
+EXE_INC = \
+   -I/home/zhiwei_zhao/NEW/Eigen/include \
+   -I. \
+   -I./Sparsezzw 
+   #-I$(LIB_SRC)/finiteVolume/lnInclude \
+   #-I$(LIB_SRC)/meshTools/lnInclude \
+   #-I$(LIB_SRC)/sampling/lnInclude \
+   #-I$(LIB_SRC)/TurbulenceModels/turbulenceModels/lnInclude \
+   #-I$(LIB_SRC)/TurbulenceModels/compressible/lnInclude \
+   #-I$(LIB_SRC)/thermophysicalModels/specie/lnInclude \
+   #-I$(LIB_SRC)/thermophysicalModels/reactionThermo/lnInclude \
+   #-I$(LIB_SRC)/transportModels/compressible/lnInclude \
+   #-I$(LIB_SRC)/thermophysicalModels/basic/lnInclude \
+   #-I$(LIB_SRC)/thermophysicalModels/chemistryModel/lnInclude \
+   #-I$(LIB_SRC)/ODE/lnInclude \
+   #-I$(LIB_SRC)/combustionModels/lnInclude \
+   #-I$(WM_CANTERA_DIR) \
+   #-I$(WM_CANTERA_DIR)/cantera \
+   #-I$(WM_CANTERA_DIR)/cantera/kinetics \
+   #-I$(WM_CANTERA_DIR)/cantera/base \
+   #-I$(WM_CANTERA_DIR)/cantera/transport \
+   #-I$(WM_CANTERA_DIR)/cantera/thermo \
+   #-I$(WM_CANTERA_DIR)/cantera/ext \
+   #-I$(WM_CANTERA_DIR)/cantera/ext/fmt \
+   #-I/home/zhiwei_zhao/NEW/FFTW/include \
+   #-I/home/zhiwei_zhao/NEW/Eigen/include 
+   #-I/home/zhiwei_zhao/NEW/matplotplusplus/Install/usr/local/include 
+   #-I/home/zhiwei_zhao/.conda/envs/MatPlot/include/python3.7m \
+   #-I/home/zhiwei_zhao/.conda/envs/MatPlot/lib/python3.7/site-packages/numpy/core/include
+
+
+EXE_LIBS = \
+    -L$(FOAM_USER_LIBBIN) \
+    -lSparsezzw
+    #-L$(FOAM_USER_LIBBIN) \
+    #-lfiniteVolume \
+    #-lmeshTools \
+    #-lsampling \
+    #-lturbulenceModels \
+    #-lcompressibleTransportModels \
+    #-lspecie \
+    #-lfluidThermophysicalModels \
+    #-lODE \
+    #-lchemistryModel \
+    #-lreactionThermophysicalModels \
+    #-lcompressibleTurbulenceModels \
+    #-lfvOptions \
+    #-lcombustionModels \
+    #/home/zhiwei_zhao/NEW/FFTW/lib/libfftw3.a 
+   # /home/zhiwei_zhao/NEW/matplotplusplus/Install/usr/local/lib/libmatplot.a 
+   # -L/home/zhiwei_zhao/.conda/envs/MatPlot/lib \
+   # /home/zhiwei_zhao/.conda/envs/MatPlot/lib/libpython3.7m.so 
+

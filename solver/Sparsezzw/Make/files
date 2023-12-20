@@ -1,0 +1,3 @@
+Sparsezzw.C
+
+LIB = $(FOAM_USER_LIBBIN)/libSparsezzw

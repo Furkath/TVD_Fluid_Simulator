@@ -1,0 +1,5 @@
+rm -r 0 >interpolate.log 2>&1
+blockMesh >>interpolate.log
+mapFields ./cavity -consistent -sourceTime 25 >>interpolate.log
+rm *_ref.txt >>interpolate.log 2>&1
+OFtoEigen >>interpolate.log

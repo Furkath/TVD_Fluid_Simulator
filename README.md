@@ -1,6 +1,6 @@
 # Project Title
 
-Short description or introduction of your project.
+A self-built c++ fluid simulator with adaption of all kinds of Total Variation Diminishing (TVD) convection schemes.
 
 ## Table of Contents
 
@@ -13,11 +13,11 @@ Short description or introduction of your project.
 
 ## Features
 
-- List key features or functionalities of your project.
+- Any fluxe limiter can be applied within TVD framework.
 
 ## Installation
 
-Provide instructions on how to install and set up your project. Include any dependencies and steps needed for a successful installation.
+<!-- Provide instructions on how to install and set up your project. Include any dependencies and steps needed for a successful installation. -->
 
 ```bash
 # Example command for installation

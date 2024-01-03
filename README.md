@@ -1,4 +1,4 @@
-# Project Title
+# Total-Variation-Diminishing Fluid Simulator
 
 A self-built c++ fluid simulator with adaption of all kinds of Total Variation Diminishing (TVD) convection schemes.
 
